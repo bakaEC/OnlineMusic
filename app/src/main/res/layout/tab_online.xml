@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TabHost
+        android:id="@+id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.lihang.ShadowLayout
+            android:id="@+id/host_shadow"
+            app:hl_shadowColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:hl_angle="270"
+            app:hl_endColor="#182848"
+            app:hl_startColor="#4b6cb7"
+
+            >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.lihang.ShadowLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:hl_layoutBackground="@color/white">
+
+
+
+                <FrameLayout
+                        android:id="@android:id/tabcontent"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+                    <androidx.viewpager.widget.ViewPager
+                        android:id="@+id/view_pager"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+                </FrameLayout>
+
+
+
+
+            </com.lihang.ShadowLayout>
+
+            <com.lihang.ShadowLayout
+                android:id="@+id/tab_shadow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="-100dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="20dp"
+                app:hl_cornerRadius_leftBottom="20dp"
+                app:hl_cornerRadius_leftTop="20dp"
+                app:hl_cornerRadius_rightBottom="20dp"
+                app:hl_cornerRadius_rightTop="20dp"
+                app:hl_shadowColor="#2a000000"
+                app:hl_shadowLimit="10dp">
+
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </com.lihang.ShadowLayout>
+
+
+
+        </LinearLayout>
+        </com.lihang.ShadowLayout>
+    </TabHost>
+
+</LinearLayout>

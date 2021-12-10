@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.u21.a0903_onlinemusic.view.CircleImageView
+        android:id="@+id/musicLogo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="30dp"
+        android:src="@mipmap/dujiaoshou1"/>
+    <TextView
+        android:id="@+id/musicName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#111111"
+        android:layout_margin="30dp"
+        android:layout_gravity="center_vertical"
+        android:text="想去海边"/>
+
+</LinearLayout>

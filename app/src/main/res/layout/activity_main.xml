@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.lihang.ShadowLayout
+                android:id="@+id/mShadowLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="257dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginRight="4dp"
+                android:alpha="10"
+                app:hl_angle="90"
+                app:hl_cornerRadius="20dp"
+                app:hl_endColor="#f4f4f4"
+                app:hl_shadowColor="#2a000000"
+                app:hl_shadowLimit="6dp"
+                app:hl_shadowOffsetY="6dp"
+                app:hl_startColor="#f0f0f0">
+
+
+                <com.kproduce.roundcorners.RoundLinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="233dp"
+                    android:layout_marginTop="10dp"
+                    android:alpha="20"
+                    android:orientation="vertical"
+                    app:rTopLeftRadius="20dp"
+                    app:rTopRightRadius="20dp">
+
+                    <Spinner
+
+                        android:id="@+id/language"
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:layout_marginTop="20dp"
+                        android:alpha="20"
+                        android:fadeScrollbars="true"
+                        android:gravity="center_horizontal"
+                        android:scrollbarStyle="outsideInset"
+                        android:textAlignment="center" />
+
+
+                    <ImageView
+                        android:id="@+id/view"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="3dp"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/from"
+                            android:layout_width="286dp"
+                            android:layout_height="127dp"
+                            android:layout_marginLeft="30dp"
+                            android:layout_marginRight="25dp"
+                            android:alpha="20"
+                            android:background="@null"
+                            android:ems="12"
+                            android:gravity="top"
+                            android:inputType="textMultiLine"
+                            android:textSize="20dp" />
+
+                        <ImageView
+                            android:id="@+id/clear"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="center_vertical"
+
+                            />
+
+                    </LinearLayout>
+
+
+                    <com.kproduce.roundcorners.RoundLinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:alpha="20"
+                        android:orientation="horizontal"
+                        app:rBottomLeftRadius="20dp"
+                        app:rBottomRightRadius="20dp">
+
+                        <net.steamcrafted.materialiconlib.MaterialIconView
+
+                            xmlns:app="http://schemas.android.com/apk/res-auto"
+                            android:id="@+id/transpic"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="50dp"
+                            android:layout_weight="1"
+                            android:scaleType="center"
+                            app:materialIcon="camera"
+                            app:materialIconColor="#000000"
+                            app:materialIconSize="24dp" />
+
+                        <net.steamcrafted.materialiconlib.MaterialIconView
+
+                            xmlns:app="http://schemas.android.com/apk/res-auto"
+                            android:id="@+id/transsound"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="50dp"
+                            android:layout_weight="1"
+                            android:scaleType="center"
+                            app:materialIcon="microphone_outline"
+                            app:materialIconColor="#000000"
+                            app:materialIconSize="24dp" />
+
+                        <net.steamcrafted.materialiconlib.MaterialIconView
+
+                            xmlns:app="http://schemas.android.com/apk/res-auto"
+                            android:id="@+id/transbtn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:scaleType="center"
+                            app:materialIcon="cube_outline"
+
+                            app:materialIconColor="#000000"
+                            app:materialIconSize="24dp" />
+
+                    </com.kproduce.roundcorners.RoundLinearLayout>
+
+                </com.kproduce.roundcorners.RoundLinearLayout>
+
+
+            </com.lihang.ShadowLayout>
+
+            <com.lihang.ShadowLayout
+                android:layout_width="match_parent"
+                android:layout_height="248dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                app:hl_angle="90"
+                app:hl_cornerRadius="20dp"
+                app:hl_endColor="#f4f4f4"
+                app:hl_layoutBackground="#f4f4f4"
+                app:hl_layoutBackground_true="#4a90e2"
+                app:hl_shadowColor="#2a000000"
+                app:hl_shadowLimit="6dp"
+                app:hl_shadowOffsetY="6dp"
+                app:hl_shapeMode="ripple"
+                app:hl_startColor="#f0f0f0">
+
+                <com.kproduce.roundcorners.RoundTextView
+                    android:id="@+id/to"
+                    android:layout_width="match_parent"
+                    android:layout_height="225dp"
+                    android:alpha="60"
+                    android:gravity="center"
+                    android:paddingLeft="20sp"
+                    android:paddingRight="20sp"
+                    android:text="美好的事情即将发生"
+                    android:textColor="#3E3E3E"
+                    android:textSize="20sp"
+                    app:rBottomLeftRadius="20dp"
+                    app:rBottomRightRadius="20dp"
+                    app:rTopLeftRadius="20dp"
+                    app:rTopRightRadius="20dp" />
+
+            </com.lihang.ShadowLayout>
+
+            <androidx.coordinatorlayout.widget.CoordinatorLayout
+                android:id="@+id/coordinator"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+            <com.lihang.ShadowLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="248dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                app:hl_angle="90"
+                app:hl_cornerRadius="20dp"
+                app:hl_endColor="#f4f4f4"
+                app:hl_layoutBackground="#f4f4f4"
+                app:hl_layoutBackground_true="#4a90e2"
+                app:hl_shadowColor="#2a000000"
+                app:hl_shadowLimit="6dp"
+                app:hl_shadowOffsetY="6dp"
+                app:hl_shapeMode="ripple"
+                app:hl_startColor="#f0f0f0">
+
+
+                    <LinearLayout
+                        android:id="@+id/linear_left"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        >
+
+                    </LinearLayout>
+
+            </com.lihang.ShadowLayout>
+
+                <com.lihang.ShadowLayout
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="248dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginRight="4dp"
+                    app:hl_angle="90"
+                    app:hl_cornerRadius="20dp"
+                    app:hl_endColor="#f4f4f4"
+                    app:hl_layoutBackground="#f4f4f4"
+                    app:hl_layoutBackground_true="#4a90e2"
+                    app:hl_shadowColor="#2a000000"
+                    app:hl_shadowLimit="6dp"
+                    app:hl_shadowOffsetY="6dp"
+                    app:hl_shapeMode="ripple"
+                    app:hl_startColor="#f0f0f0">
+
+                    <com.kproduce.roundcorners.RoundTextView
+                        android:id="@+id/toright"
+                        android:layout_width="match_parent"
+                        android:layout_height="225dp"
+                        android:alpha="60"
+                        android:gravity="center"
+                        android:paddingLeft="20sp"
+                        android:paddingRight="20sp"
+                        android:text="美好的事情即将发生"
+                        android:textColor="#3E3E3E"
+                        android:textSize="20sp"
+                        app:rBottomLeftRadius="20dp"
+                        app:rBottomRightRadius="20dp"
+                        app:rTopLeftRadius="20dp"
+                        app:rTopRightRadius="20dp" />
+                </com.lihang.ShadowLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
