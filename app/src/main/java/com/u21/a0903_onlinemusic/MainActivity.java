@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
                     config.lang(Language.ZH, Language.FRA);
                 }
 
-                afterTextChanged(from.getEditableText());       // 重选语言后再次更新内容
+                afterTextChanged(from.getEditableText());       // 重选语言后同步内容
 
             }
 
