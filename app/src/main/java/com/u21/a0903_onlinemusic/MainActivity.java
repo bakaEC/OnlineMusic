@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
     private ImageView clear;                    // 清空按钮
     private String pic_result;                  // 图片绝对路径
 
-    public String sentence="";                    //名言警句
+    public String sentence="美好的事即将发生";
 
 
     //设置要转换的语言

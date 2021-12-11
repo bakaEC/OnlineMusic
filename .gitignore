@@ -13,5 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+/.idea/compiler.xml
+/.idea/runConfigurations.xml
 
 
