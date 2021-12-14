@@ -19,13 +19,71 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
+
+            <LinearLayout
+                android:layout_marginTop="50dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <com.lihang.ShadowLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginRight="4dp"
+                    app:hl_angle="90"
+                    app:hl_cornerRadius="20dp"
+                    app:hl_endColor="#f4f4f4"
+                    app:hl_layoutBackground="#f4f4f4"
+                    app:hl_layoutBackground_true="#4a90e2"
+                    app:hl_shadowColor="#2a000000"
+                    app:hl_shadowLimit="6dp"
+                    app:hl_shadowOffsetY="6dp"
+                    app:hl_shapeMode="ripple"
+                    app:hl_startColor="#f0f0f0">
+
+                    <com.kproduce.roundcorners.RoundTextView
+                        android:id="@+id/BOTTOM_END"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:alpha="60"
+                        android:gravity="center"
+                        android:paddingLeft="20sp"
+                        android:paddingRight="20sp"
+                        android:text=""
+                        android:textColor="#3E3E3E"
+                        android:textSize="20sp"
+                        app:rRadius="50dp" />
+                </com.lihang.ShadowLayout>
+
+                <com.lihang.ShadowLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="-50dp"
+                    app:hl_layoutBackground="#f4f4f4"
+                    app:hl_layoutBackground_true="#4a90e2"
+                    app:hl_shapeMode="ripple"
+                    app:rRadius="50dp">
+
+                    <com.kproduce.roundcorners.RoundImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/shibai" />
+
+                </com.lihang.ShadowLayout>
+
+
+            </LinearLayout>
+
             <com.lihang.ShadowLayout
                 android:id="@+id/mShadowLayout"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="257dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginLeft="4dp"
-                android:layout_marginTop="50dp"
+
                 android:layout_marginRight="4dp"
                 android:alpha="10"
                 app:hl_angle="90"
@@ -302,36 +360,7 @@
                 </LinearLayout>
 
             </LinearLayout>
-            <com.lihang.ShadowLayout
-                android:layout_width="match_parent"
-                android:layout_height="248dp"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginLeft="4dp"
-                android:layout_marginRight="4dp"
-                app:hl_angle="90"
-                app:hl_cornerRadius="20dp"
-                app:hl_endColor="#f4f4f4"
-                app:hl_layoutBackground="#f4f4f4"
-                app:hl_layoutBackground_true="#4a90e2"
-                app:hl_shadowColor="#2a000000"
-                app:hl_shadowLimit="6dp"
-                app:hl_shadowOffsetY="6dp"
-                app:hl_shapeMode="ripple"
-                app:hl_startColor="#f0f0f0">
 
-            <com.kproduce.roundcorners.RoundTextView
-                android:id="@+id/BOTTOM_END"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:alpha="60"
-                android:gravity="center"
-                android:paddingLeft="20sp"
-                android:paddingRight="20sp"
-                android:text="美好的事情即将发生"
-                android:textColor="#3E3E3E"
-                android:textSize="20sp"
-                app:rRadius="50dp"/>
-            </com.lihang.ShadowLayout>
         </LinearLayout>
 
     </ScrollView>

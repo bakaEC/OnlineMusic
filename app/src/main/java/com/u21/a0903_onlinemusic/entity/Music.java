@@ -33,13 +33,6 @@ public class Music {
         this.name = name;
     }
 
-    private Bitmap loadCover(String path) {
-        MediaMetadataRetriever mediaMetadataRetriever = new MediaMetadataRetriever();
-        mediaMetadataRetriever.setDataSource(path);
-        byte[] cover = mediaMetadataRetriever.getEmbeddedPicture();
-        Bitmap bitmap = BitmapFactory.decodeByteArray(cover, 0, cover.length);
-        return  bitmap;
-    }
 
 
 }
