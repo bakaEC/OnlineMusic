@@ -28,6 +28,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.0903OnlineMusic.NoActionBar"
         android:usesCleartextTraffic="true">
+        <meta-data android:name="android.max_aspect" android:value="2.4" />
+        <meta-data android:name="android.notch_support" android:value="true" />
         <activity android:name=".WelcomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -40,7 +42,9 @@
         <activity android:name=".MusicListActivity" />
         <activity android:name=".MusicPlayActivity" />
         <activity android:name=".MyWebActivity" />
-        <activity android:name=".UserInfoActivity" />
+        <activity android:name=".UserInfoActivity"/>
+
+
     </application>
 
 </manifest>

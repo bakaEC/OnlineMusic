@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:background="@drawable/maoboli"
+    android:background="@drawable/bg"
     android:layout_height="match_parent">
     <com.lihang.ShadowLayout
         android:layout_width="80dp"
@@ -26,10 +26,10 @@
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Enjoy the trip" />
+        android:text="享受你的旅途" />
 
     <com.lihang.ShadowLayout
-        android:layout_marginTop="170dp"
+        android:layout_marginTop="230dp"
         android:layout_marginLeft="50dp"
         android:layout_marginRight="50dp"
         android:layout_width="match_parent"
@@ -46,6 +46,7 @@
         app:hl_startColor="#FF7F56">
 
         <Button
+            android:id="@+id/register"
             android:textColor="@color/white"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -69,6 +70,7 @@
     app:hl_startColor="#f0f0f0">
 
     <Button
+        android:id="@+id/login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="#FF7F56"

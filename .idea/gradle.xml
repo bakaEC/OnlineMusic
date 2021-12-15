@@ -4,7 +4,7 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="testRunner" value="GRADLE" />
+        <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/QRCodeLibrary" />
             <option value="$PROJECT_DIR$/ZBLibrary" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/poplibrary" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

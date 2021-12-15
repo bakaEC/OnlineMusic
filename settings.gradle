@@ -2,3 +2,4 @@ rootProject.name = "0903-OnlineMusic"
 include ':app'
 include ':QRCodeLibrary'
 include ':ZBLibrary'
+include ':poplibrary'

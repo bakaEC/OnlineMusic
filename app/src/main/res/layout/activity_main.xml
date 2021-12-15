@@ -308,6 +308,7 @@
                     app:hl_startColor="#f0f0f0">
 
                     <com.kproduce.roundcorners.RoundTextView
+                        android:background="@drawable/read"
                         android:id="@+id/toright_up"
                         android:layout_width="match_parent"
                         android:layout_height="225dp"
