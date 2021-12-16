@@ -1,7 +1,11 @@
 package com.u21.a0903_onlinemusic.net;
 
+import android.annotation.SuppressLint;
+import android.annotation.TargetApi;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.os.Build;
+import android.os.StrictMode;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -11,16 +15,21 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 
-public class Net{
-    public static String get(String strurl)throws Exception{
+public class Net {
+    @TargetApi(Build.VERSION_CODES.GINGERBREAD)
+    @SuppressLint("NewApi")
+    public static String get(String strurl) throws Exception {
+        StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+
+        StrictMode.setThreadPolicy(policy);
         StringBuffer sb = new StringBuffer();
         URL url = new URL(strurl);
         //建立网络连接
         URLConnection connection = url.openConnection();
-        HttpURLConnection conn=(HttpURLConnection)url.openConnection();
+        HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         //设置传输方法和编码格式
         conn.setRequestMethod("GET");
-        conn.setRequestProperty("encoding","UTF-8");
+        conn.setRequestProperty("encoding", "UTF-8");
         //设置网络连接时间
         conn.setReadTimeout(5000);
         connection.setUseCaches(false);

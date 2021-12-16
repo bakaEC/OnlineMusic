@@ -31,14 +31,23 @@
             android:layout_marginLeft="40dp"
             android:layout_marginRight="40dp"
             android:hint="用户名"
-            android:layout_height="60dp"/>
+            android:layout_height="60dp" />
+
         <EditText
             android:id="@+id/log_password"
             android:layout_width="match_parent"
             android:layout_marginLeft="40dp"
             android:layout_marginRight="40dp"
+            android:inputType="textPassword"
             android:hint="密码"
-            android:layout_height="60dp"/>
+            android:layout_height="60dp" />
+
+        <androidx.coordinatorlayout.widget.CoordinatorLayout
+            android:id="@+id/logincord"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true" />
+
         <com.lihang.ShadowLayout
             android:layout_marginTop="30dp"
             android:layout_marginLeft="50dp"
@@ -56,12 +65,12 @@
             app:hl_shapeMode="ripple"
             app:hl_startColor="#FF7F56">
 
-        <Button
-            android:id="@+id/log_apply"
-            android:textColor="@color/white"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="注册"/>
+            <Button
+                android:id="@+id/log_apply"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="登录" />
         </com.lihang.ShadowLayout>
 
 
