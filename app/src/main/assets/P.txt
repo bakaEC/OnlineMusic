@@ -1,0 +1,327 @@
+P类
+
+pace n.步,步伐,步调,速度 v.踱步,用步测
+pack v.捆扎,打包;塞满,挤满 n.包裹,背包,一群/副
+package n.包装,包裹,箱,包装费,标准部件,成套设备
+packet n.小包裹,小捆;盒;一捆,一扎;邮船,班轮
+pact n.合同,条约,公约,协定
+pad n.垫,衬垫;便笺簿 v.加上衬垫
+paddle n.桨 v.用桨划
+page n.页,记录,事件,专栏 vt.给...标页码
+pail n.桶, 提桶; 一桶的量
+pain n.痛,痛苦;(pl.)努力,劳苦 vt.使痛苦
+painful a.疼痛的,使痛苦的,费力[心]的,棘手的
+paint n.油漆,颜料 v.油漆;涂,涂漆;画;描绘,描述
+painter n.漆工,画家
+painting n.上油漆,着色;绘画;油画;画法
+pair n.一对,一双;一副;夫妇 v.配对,成对
+palace n.宫,宫殿
+pale a.苍白的,灰白的;浅的,暗淡的
+palm n.手掌,掌状物,棕榈 vt.与„握手,藏„于掌中
+pamphlet n.小册子
+pan n.平底锅,盘子,面板
+panda n.熊猫
+panel n.面,板;控制板,仪表盘;专门小组
+panic n./a.恐慌(的),惊慌(的) vt.使惊慌,使害怕
+panorama n.全景,全景画,全景摄影,全景照片[装置]
+pant n.喘气 v.喘,气喘吁吁地说
+pants n.裤子, 短裤
+paper n.纸；纸制品；报纸；(pl)文件；试卷；论文
+paperback n.平装本，简装本
+parachute n.降落伞 v.跳伞
+parade n./v.游行,夸耀 n.检阅,阅兵式 v.使列队行进
+paradigm n.典范; 范例; 示例
+paradox n.似非而是的话,自相矛盾的话,反论
+paragraph n.段,节;小新闻,短评
+parallel a.平行的,相同的,类似的 n.平行线,类似,对比
+paralyze v.(paralyse)使瘫痪(麻痹);使丧失作用
+parameter n.参数,参量
+parasite n.寄生虫,食客
+parcel n.包裹,邮包,部分 v.打包,捆扎,分配
+pardon n.原谅,宽恕;请再说一遍 v.原谅,饶恕,赦免
+parent n.父母,母亲;(pl.)双亲;父母
+park n.公园,停车场,运动场 v.停放(汽车等),寄放
+parliament n.国会,议会
+part n.部分,角色,一方,零件,地区,部,篇 v.使分开
+partial a.部分的,不完全的;偏袒的,不公平的,偏爱的
+participant n.参加者,参与者 a.有份的,参与的
+participate v.(in)参与,参加;分享,分担;含有,带有
+particle n.粒子,微粒;极小量;小品词,虚词
+particular a.特殊的,苛求的,个别的 n.详情,细节,特色
+partly ad.部分地,不完全地,在一定程度上
+partner n.合作者,合伙人,合股人,伙伴,舞伴,配偶
+party n.聚会,政党,当事人 v.举行(参加)社交聚会
+pass v.经/通/穿/度过；传递 n.通行证；考试及格
+passage n.通过,经过;通路,走廊;(一)段落,(一)节
+passenger n.乘客,旅客
+passer-by n.(pl.passers-by)过路人
+passion n.热情,激情,爱好;激怒;强烈感情
+passive a.被动的,消极的
+passport n.护照,达到某种目的的手段
+past a.过去的 ad.过 n.过去，昔日 prep.(经)过
+paste n.糊,浆糊 v.粘,贴
+pastime n.消遣,娱乐
+pasture n.牧草地,牧场
+pat v./n.轻拍,轻打,抚摸
+patch n.补丁,斑点,碎片小块 v.补,修补,掩饰
+patent a.专利的,特许的 n.专利(权、品)v.批准专利
+path n.小路,小径;路线,轨道
+pathetic a.可怜的, 悲惨的
+patience n.耐心,忍耐
+patient a.有耐心的,能忍耐的 n.病人,患者
+patriotic a.爱国的
+patrol v.巡逻，巡查 n.巡逻，巡查；巡逻队
+patron n.赞助人；资助人；老顾客，老主顾
+pattern n.模式,式样;图案,图样 v.仿制,模仿
+pause v./n.中止,暂停
+pave v.铺砌,铺(路)
+pavement n.人行道
+paw n.爪
+pay v.付款,付出代价,给予注意 n.工资,薪金
+payment n.支付,付款额
+pea n.豌豆
+peace n.和平;平静,安宁
+peaceful a.和平的,平静的,安宁的,爱好和平的
+peach n.桃,桃树
+peak n.山顶,最高点;峰,山峰 a.高峰的,最高的
+peanut n.花生
+pear n.梨子,梨树
+pearl n.珍珠
+peasant n.(不用于英国或美国)小农;佃农;农民
+pebble n.卵石
+peculiar a.古怪的,异常的;特殊的,特有的
+pedal n.踏板 v.踩踏板,骑自行车
+pedestrian n.步行者 a.徒步的,呆板的,通俗的
+peel v.削皮,剥皮 n.果皮
+peep v.偷看,窥视
+peer n.同辈,同等地位的人;贵族 v.凝视,隐约出现
+pen n.钢笔,圆珠笔,作家,围栏 vt.写,关入栏中
+penalty n.处罚,刑罚,惩罚,罚金
+pencil n.铅笔 vt.用铅笔写
+pendulum n.摆,钟摆
+penetrate v.穿过,渗入,看穿
+peninsula n.半岛
+penny n.便士,美分
+pension n.养老金,年金
+people n.人们，人；[the-]人民；一国人民，民族
+pepper n.胡椒粉,胡椒;辣椒
+per prep.每;经,由
+perceive v.察觉,感知;理解,领悟
+percent n.(per cent)百分之...的
+percentage n.百分数,百分率,百分比
+perfect a.完善的;完全的;(语法)完成的 v.使完美
+perfection n.尽善尽美,完美
+perform v.履行,执行;表演,演出;完成(事业)
+performance n.履行,执行;表演,演出;性能,特性;成绩
+perfume n.香味,芳香;香料 v.使发香,洒香水于
+perhaps ad.也许,大概,恐怕
+period n.时期,时代;学时;周期,一段时间;句点
+periodical n.期刊,杂志 a.周期的,定期的
+perish v.丧生;凋谢;毁灭,消亡
+permanent a.永久的,持久的
+permeate v.弥漫，遍布，散布；渗入，渗透
+permission n.允许,同意
+permit v.许可,允许 n.许可证,执照
+perpetual a.永久的,永恒的,长期的
+perplex v.使困惑,使费解,使复杂化
+persecute v.迫害
+persevere v.坚持,坚忍,不屈不挠
+persist v.(in)坚持,持续
+person n.人，喜欢(或适应)..的人；人物；人称
+personal a.个人的,私人的;亲自的;身体的,人身的
+personality n.人格,个性
+personnel n.全体人员,全体职员;人事(部门)
+perspective n.透视画法,透视图;远景,前途;观点,看法
+persuade v.说服,劝说;(of)使相信
+persuasion n.说服,说服力
+pessimistic a.悲观(主义)的
+pest n.害虫
+pet n.爱畜,宠儿 a.宠爱的,表示亲昵的
+petition n.请愿书,申请书 v.(向…)请愿,正式请求
+petrol n.汽油
+petroleum n.石油
+petty a.小(器、规模)的,不重要的,细微的,卑鄙的
+pharmacy n.药房,药剂学,制药业,配药业,一批备用药品
+phase n.阶段,状态,时期;相,相位
+phenomenon n.现象,稀有现象,珍品,奇迹,杰出人才
+philosopher n.哲学家,哲人
+philosophy n.哲学,哲理,人生观,价值观,世界观
+phone n.(telephone)电话,电话机,耳机 v.打电话
+photo n.(photograph)照片
+phrase n.短语,词语,习语
+physical a.物质的;肉体的,身体的;自然科学的,物理的
+physician n.内科医生
+physicist n.物理学家
+physics n.物理(学)
+physiological a.生理学的, 生理学上的
+piano n.钢琴
+pick v.拾,采,摘;挑选,选择 n.镐,鹤嘴锄
+pickup n.拾起,获得
+picnic n.野餐 v.(去)野餐
+picture n.画,图片;影片;美景 v.画,描述,想象
+pie n.馅饼
+piece n.(一)件/片/篇;碎片 v.(together)拼合,拼凑
+pierce v.剌穿,刺破
+pig n.猪，猪肉；猪一般的人(指肮脏，贪吃的人)
+pigeon n.鸽
+pile n.堆,大量,大数目 v.(up)堆,叠,堆积
+pilgrim n.(在国外)旅游者;朝圣者,最初的移民
+pill n.药丸
+pillar n.柱,台柱,栋梁
+pillow n.枕头
+pilot n.飞行员;领港员 v.驾驶(飞机等);领航,引水
+pin n.钉;大头针,别针,徽章 v.(up)钉住,别住
+pinch v.捏,掐,拧;收缩;紧急关头;匮乏;压力
+pine n.松树
+pink n.粉红色 a.粉红色的
+pint n.品脱
+pioneer n.先驱,倡导者,开拓者
+pipe n.管子,导管;烟斗;笛
+pirate n./v.海盗,盗版(者)
+pistol n.手枪
+piston n.活塞
+pit n.坑,陷阱;煤矿,矿井
+pitch n.沥青;掷 v.用沥青覆盖;投掷,扔
+pity v.(觉得)可怜,惋惜 n.憾事,怜悯
+place n.地方;名次;地位;寓所 v.安排;放置;投(资)
+plague n.瘟疫,灾害,麻烦,苦恼 vt.折磨,使苦恼
+plain a.明白的;朴素的;坦率;平凡 n.平原,旷野
+plan n.计划,规划;平面图,设计图 v.计划
+plane n.飞机;平面,水平面
+planet n.行星
+plant n.植物,作物;工厂;装置 v.栽种,播种,栽培
+plantation n.种植园
+plaster n.灰泥;熟石膏;膏药
+plastic n.(常 pl.)塑料,塑料制品 a.可塑的,塑性的
+plate n.金属板,片;盘子,盆子;板,钢板 v.镀,电镀
+plateau n.高原,平稳状态[时期]
+platform n.平台,台;站台,月台;政纲,党纲
+plausible a.似是而非的,似乎合理的,似乎可信的
+play v.玩，做游戏；参加比赛 n.游戏；玩耍；剧本
+playground n.运动场,游戏场
+plea n.(法律)抗辩；请求，恳求，托词，口实
+plead v.恳求,请求;为…辩护;提出…为理由
+pleasant a.令人愉快的 vt.使高兴 vi.满意；喜欢
+please v.请;使愉快,使满意;喜欢,愿意
+pleasure n.愉快,快乐;乐事,乐趣
+pledge n.誓约;保证 v.发誓;保证
+plentiful a.富裕的,丰富的
+plenty n.丰富,大量
+plight n.情况,状态,困境,盟誓(婚姻) v.保证,约定
+plot n.秘密计划;情节 v.标绘,绘制;密谋,策划
+plough n.(plow)犁,耕地,犁过的地 v.犁,费力地前进
+plug n.塞子,插头 v.堵,塞,插上,插栓
+plumber n.(装修水管的)管子工
+plunge v.(into)(使)投入,(使)插进,陷入;猛冲
+plural a.复数的 n.复数
+plus prep.加上 a.正的,加的 n.加号,正号
+pneumonia n.肺炎
+pocket n.衣袋 a.袖珍的,小型的 v.把…装入袋内
+poem n.诗
+poet n.诗人
+poetry n.诗歌,诗集
+point n.尖;点;条款;分数,得分;论点 v.(at,to)指
+poison n.毒物,毒药 v.放毒,毒害,污染
+poisonous a.有毒的,恶意的,恶毒的,道德败坏的
+poke n.刺,戳,懒汉,袋子 v.戳,刺,伸出,刺探,闲荡
+polar a.两极的,极地的,南辕北辙的 n.极线,极面
+pole n.柱,杆;地极,磁极,电极
+police n.警察,警察机关 a.警察的 v.管辖
+policeman n.警察
+policy n.政策,方针
+polish v.磨光,擦亮;使优美,润饰 n.擦光剂,上光蜡
+polite a.有礼貌的,客气的;有教养的,文雅的
+political a.政治的
+politician n.政治家,政客
+politics n.政治,政治学;政纲,政见
+poll n.民意测验;(pl.)政治选举 v.获得…选票
+pollute v.弄脏,污染
+pollution n.污染
+pond n.池塘
+ponder v.沉思,考虑
+pool n.水池,游泳池;合资经营 v.合伙经营,联营
+poor a.贫困的；可怜的；贫乏的；贫瘠的；低劣的
+pop a.流行的 n.(发出)砰的一声 v.突然出现
+pope n.罗马教皇,主教,大腿上要害部位
+popular a.流行的,通俗的,大众的;广受欢迎的
+population n.人口,(全体)居民
+professional a.职业的,专门的 n.自由职业者,专业人员
+professor n.教授
+proficiency n.(in)熟练,精通
+profile n.侧面(像);轮廓,外形;人物简介
+profit n.利润,收益 v.(by,from)得利,获益;有利于
+profitable a.有利可图的,有益的
+profound a.深刻的,意义深远的;渊博的,造诣深的
+programme n.(program)节目,计划,规划,程序 v.编程序
+progress v./n.进步，进展；前进
+progressive a.进步的,先进的;前进的
+prohibit v.禁止,不准;阻止
+project n.方案,工程,项目 v.投射,放映;设计,规划
+projector n.放映机,幻灯机,投影仪
+prolong v.拉长,延长,拖延
+prominent a.突起的,凸出的;突出的,杰出的
+promise v.允许,答应;有„可能 n.承诺;希望,出息
+promising a.有希望的,有前途的
+promote v.促进,发扬;提升,提拔;增进,助长
+prompt a.敏捷的,迅速的,即刻的 v.激起,促进,推动
+prone a.倾向于,俯伏的,倾斜的,陡的
+pronoun n.代词
+pronounce v.发„的音;宣布,宣判
+pronunciation n.发音,发音方法
+proof n.证据,证明;校样,样张
+propaganda n.宣传(机构)；[天主教]传道总会
+propel vt.推进，推动；激励，驱使
+proper a.适合的;合乎体统的;固有的;有礼貌的
+property n.财产,资产,地产,房地产,所有物;性质,特性
+prophet n.预言家；先知；提倡者
+proportion n.比例;部分;均衡,相称
+proposal n.提议,建议;求婚
+propose v.提议,建议;提名,推荐;求婚
+proposition n.主张,建议;陈述,命题
+prose n.散文 a.散文的
+prosecute vt.实行，从事 v.起诉，告发 vi.作检察官
+prospect n.景色;前景,前途,展望
+prospective a.预期的
+prosper v.成功,兴隆,昌盛,使成功,使昌隆,繁荣
+prosperity n.繁荣,兴旺
+prosperous a.繁荣的,兴旺的,茂盛的,顺利的
+protect v.(from)保护,保卫
+protein n.蛋白质
+protest v./n.主张,断言,抗议,反对
+prototype n.原型；典型，范例
+proud a.(of)自豪的;引以自豪的;妄自尊大的
+prove v.证明,证实;检验;考验;鉴定;结果是,表明是
+provide v.供应,供给,准备,预防,规定
+provided conj.倘若,只要,假如
+province n.省;领域,范围,本分
+provision n.供应,(一批)供应品;预备;条款;(pl.)给养
+provoke v.挑动;激发;招惹
+prudent a.谨慎的,智慧的,稳健的,节俭的
+psychiatry n.精神病学，精神病疗法
+psychology n.心理,心理学,心理状态
+pub n.(英国)小酒店；小旅馆
+public              a.公共的,公用的;公开的,公然的 n.公众,民众
+publication         n.出版物;出版,发行;公布,发表
+publicity           n.公开,宣传,广告,推销
+publish             v.出版,刊印;公布,发布
+puff                n.一阵,一股(气味等);喘息;吹嘘 v.喘息,鼓吹
+pull                v.拉,拖 n.拉,拖;拉力,牵引力
+pulse               n.脉搏,脉冲
+pump                n.泵 v.用(泵)抽(水);打气,泵送
+punch               n.冲压机,冲床;穿孔机 v.冲压,穿孔
+punctual            a.严守时刻的,准时的,正点的
+punish              v.惩罚,处罚
+pupil               n.学生,小学生;瞳孔
+puppet              n.木偶,傀儡
+purchase            v.买,购买 n.购买的物品
+pure                a.纯的,纯洁的;纯理论的,抽象的;完全的
+purify              v.使纯净,提纯
+purple              a.紫的 n.紫色
+purpose             n.目的,意图;用途,效果
+purse               n.钱包
+pursue              v.追赶,追踪;继续,从事
+pursuit             n.追赶,追求;职业,工作
+push                v.推;催逼,逼迫 n.推,推力;促进,推进
+put                 vt.放，搁，置；表达；使处于...状态，记下
+puzzle              n.难题,谜,迷惑 v.(使)迷惑,(使)为难
+pyramid             n.金字塔

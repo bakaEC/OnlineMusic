@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/randwordsInterface">
+
+    <TextView
+        android:id="@+id/wordmain"
+        android:layout_width="203dp"
+        android:layout_height="103dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="128dp"
+        android:gravity="center_horizontal"
+        android:text="TextView"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/wordexp"
+        android:layout_width="200dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/wordmain"
+        android:layout_alignStart="@+id/wordmain"
+
+        android:layout_marginTop="71dp"
+        android:gravity="center_horizontal"
+        android:text="TextView"
+        android:textColor="#666666" />
+
+</RelativeLayout>

@@ -1,0 +1,301 @@
+T类
+
+table               n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+tablet              n.药片;碑,匾
+tackle              n.滑车;用具,器械 v.处理,解决;抱住,抓住
+tactic              n.(tactics)策略,战术
+tag                 n.标签;鞋带;垂饰;vt.加标签于;附加 vi.紧随
+tail                n.尾巴；尾部；跟踪者 vt.尾随，跟踪
+tailor              n.裁缝 v.缝制,剪裁
+take                v.拿取；吃；记录；取得；花费；捕获；认为
+tale                n.故事,传说
+talent              n.才能,天资;人才
+talk                n.谈话；聊天；讲话；演讲 v.说话；交谈
+tall                a.(身材)高的,高大的；夸大的,离谱的
+tame                a.驯服的,温顺的;沉闷的,乏味的 vt.驯服
+tan                 n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑
+tangle              n.纠缠；缠结；混乱 v.(使)缠绕；变乱
+tank                n.罐,槽,箱；坦克 vt.储于槽中
+tanker              n.油船
+tap                 n.塞子;水龙头; n./v.轻打,轻敲; vt.开发
+tape                n.带(子);录音带,磁带 v.录音;系,捆
+tar                 n.柏油，焦油 vt.涂或浇柏油/焦油于
+target              n.目标,对象,靶子
+tariff              n.关税,税率;(旅馆,饭店等)价目表,收费表
+task                n.任务,作业,工作
+taste               v.品尝;(of)有…味道;体验 n.滋味;味觉
+tax                 n.税(款),负担 v.对…征税,使负重担
+taxi                n.出租汽车 v.[指飞机](使)滑行
+tea                 n.茶(叶)；午后茶点
+teach               vt.教，讲授；教导(训)vi.讲课，当教师
+teacher             n.教师(员)，老(导)师
+team                n.小队,小组 v.协同工作
+tear                n.(pl.)眼泪 vt.撕裂；使…分裂 vi.破裂
+tease               v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄
+technical           a.技术(性)的，工艺的；专门性的，专业性的
+technician          n.技术员,技师,技工
+technique           n.技巧，手艺，技能；技术，工艺
+technology          n.科学技术；工业技术；应用科学
+tedious             a.乏味的,单调的,冗长的
+teenager            n.十几岁的青少年
+telegram            n.电报
+telegraph           n.电报机,电报 v.打电报,发电报
+telephone           n.电话,电话机 v.打电话
+telescope           n.望远镜 v.缩短，压缩
+tell                vt.告诉，讲述；告诫；吩咐，命令；辨/区别
+temper              n.脾气；韧度 vt.调和，使缓和；使回火
+temperament         n.气质，性格，性情；资质
+temperature         n.温度，体温；热度，发烧
+temple              n.庙宇,神殿,寺;太阳穴
+tempo               n.节奏,行进速度;(音乐的)速度
+temporary           a.暂时的,临时的
+tempt               v.诱惑,引诱;吸引,使感兴趣
+temptation          n.引诱，诱惑；诱惑物
+ten                 num.十 pron./a.十(个，只...)
+tenant              n.承租人;房客;佃户 vt.租借，承租
+tend                v.趋向,往往是;照料,看护
+tendency            n.趋势，趋向；倾向
+tender              a.嫩的;敏感的;温柔的 v.提出,提供;投标
+tennis              n.网球
+tense               n.时态 v.拉紧，(使)紧张 a.绷紧的，紧张的
+tension             n.(紧张)状态；拉(绷)紧；张力，拉力
+tent                n.帐篷
+tentative           a.试探性的，暂时的；犹豫不决的
+term                n.学期;期限,期间;(pl.)条件,条款;术语
+terminal            a.晚期的;终点的;期末的 n.终点(站);终端
+terminate           vi.(使)结束，(使)停止
+terrible            a.很糟的;可怕的,骇人的;极度的,厉害的
+terrific            a.极好的,非常的,极度的
+terrify             v.使害怕,使惊恐
+territory           n.领土;版图;领域,范围
+terror              n.恐怖;可怕的人(事)
+test                n./vt.试验；检验；测验
+testify             v.作证，证明；(to)表明，说明
+testimony           n.证据,证词;表明,说明
+text                n.正文，文本；原文；教科书
+textbook            n.课本,教科书
+textile             n.纺织品 a.纺织的
+texture             n.(织物)质地；(材料)构造；结构；肌理
+than                conj.(用于形容词，副词的比较级之后)比
+thank               vt.感谢 int.[-s]谢谢 n.[pl.]感谢(意)
+Thanksgiving        n.感恩节
+that                a./pron.那，那个 ad.那么 conj.[引导从句]
+the                 art.这(那)个;这(那)些(指特定的人或物)
+theater             n.(theatre)戏院;戏剧;阶梯教室
+theft               n.偷窃(行为)，偷窃罪
+their               pron..[they 的所有格]他(她、它)们的
+theirs              pron.[they 的物主代词]他(她、它)们的
+them                pron.他们/她们/它们(they 的宾格形式)
+theme               n.题目，主题；主旋律，基调
+themselves          pron.他(她、它)们自己；他(她、它)们亲自
+then                ad.当时，在那时；然后，于是；那么，因而
+theoretical         a.理论(上)的
+theory              n.理论,原理;学说,见解,看法
+therapy             n.治疗，(不需要药物或手术的)物理疗法
+there               ad.在那儿；往那儿；[作引导词表示"存在"]
+thereafter          ad.此后,以后
+thereby             ad.因此,从而
+therefore           ad.因此，所以 conj.因此
+thermal             a.热的,热力的；(小规模的)上升气流
+thermometer         n.温度计
+these               pron.&a.[this 的复数]这些；这些人(东西)
+thesis              n.(pl.theses) 论文;论题;论点
+they                商店。(一般人经常用复数 they 来指一家商店)
+thick               a.厚的，粗的，稠的，浓的 ad.厚，浓，密
+thief               n.(thieves)贼；小偷
+thigh               n.大腿；股骨
+thin                a.薄的,细的;稀薄的,淡的;瘦的 v.变薄;变稀
+thing               n.物，东西；事，事情；所有物；局面，情况
+think               v.想，思索；认为，以为；想要；料想，预料
+third               num.第三(个)，三分之一(的)
+thirst              n.渴,口渴;(for)渴望,热望
+thirsty             a.口渴的;(for)渴望的,热望的
+thirteen            num./a.十三 pron.十三(个，只...)
+thirty              num.三十，三十个(人或物)
+this                pron.这(个) a.这(个)；今 ad.这(样)
+thorn               n.刺,荆棘
+thorough            a.彻底的,完全的;精心的
+those               pron./a.[that 的复数]那些；那些人(东西)
+though              ad.可是，然而，不过 conj.尽管，虽然
+thought             n.思想，思考，思维；意图，打算；想法
+thoughtful          a.认真思考的,沉思的;体贴的,关心的
+thousand            num./n./a.一千；[pl.]许许多多，成千上万
+thread              n.线,细丝;线索,思路;螺纹 v.穿线,穿过
+threat              n.恐吓,威胁;坏兆头,危险迹象
+threaten            v.恐吓,威胁;有…危险,快要来临
+three               num.三 pron./a.三(个，只...)
+threshold           n.门槛;入门,开端
+thrift              a.节约，节俭
+thrill              n.一阵激动(恐惧) v.激动；(使)毛骨悚然
+thrive              v.兴旺,繁荣
+throat              n.咽喉,嗓子
+throne              n.御座，宝座；王位，王权
+through             prep./ad.穿过；自始至终；由，以 a.直达的
+throughout          prep.遍及，贯穿 ad.到处，自始至终，彻底
+throw               vt.扔；使突然陷入；使困惑 n.投掷(距离)
+thrust              vt.插入；猛推 n.插，推力 vi.刺，戳，冲
+thumb               n.拇指 v.示意要求搭车；迅速翻阅
+thunder             n.雷(声);轰隆声 v.打雷;大声说,吼叫
+Thursday            n.星期四
+thus                ad.如此；像这样；于是；因此
+tick                n.滴答声;勾号 v.滴答响;打勾号于
+ticket              n.票,入场券;票签;(交通违章)罚款传票
+tide                n.潮,潮汐;潮流,趋势
+tidy                a.整洁的,整齐的 v.整理,收拾
+tie                 n.领带;联系,关系,纽带;束缚 v.扎,系,捆
+tiger               n．虎；老虎
+tight               a.紧的;紧身的,装紧的;密封的 ad.紧紧地
+tile                n.瓦片,瓷砖 vt.铺瓦于，贴砖于
+till                prep.直到，直到…为止，与 until 意思相同
+tilt                v.(使)倾侧；(使)倾斜 n.倾侧；倾斜
+timber              n.木材,木料
+time                n.时间，时刻；次，回；时代，时期；倍，乘
+timely              a.及时的,适时的
+timid               a.胆怯的,怯懦的
+tin                 n.罐头；锡 a.锡制的 vt.镀锡于
+tiny                a.极小的,微小的
+tip                 n.尖端;末端;小费 n./v.轻击;倾斜;给小费
+tire                v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎
+tired               a.疲劳的;厌倦的
+tiresome            a.使人厌倦的,讨厌的
+tissue              n.织物,薄绢,纸巾;(动,植物的)组织
+title               n.书名,标题;头衔,称号
+to                  prep.(表示方向)到；向；(表示间接关系)给.
+toast               n.烤面包,吐司;祝酒(词)v.烘,烤;(向…)祝酒
+tobacco             n.烟草,烟叶
+today               ad.在今天；现今，在当代 n.今天；现在
+toe                 n.脚趾,足尖
+together            ad.共同,一起;合起来,集拢地
+toilet              n.厕所,盥洗室
+token               n.表示;标志;记号;代用硬币 a.象征性的
+tolerance           n.宽容；容忍,忍受；耐药力；公差
+tolerant            a.容忍的,宽容的；有耐药力的
+tolerate            vt.容忍,默许；对(药物、毒品等)有耐力
+toll                n.(道路、桥等的)通行费；牺牲；死伤人数
+tomato              n.西红柿
+tomb                n.坟,冢
+tomorrow            n.明天；来日，未来 ad.在明天，在明日
+ton                 n.吨;(pl.)大量,许多
+tone                n.音调,音色;风气,气氛;腔调,语气;色调
+tongue              n.舌;语言
+tonight             ad.在今晚；在今夜 n.今晚，今夜
+too                 ad.也，还；太，过于；很，非常
+tool                n.工具，用具；方法，手段
+tooth               n.(pl.teeth)牙齿；齿状物；
+top                 n.顶，顶端；首位；顶点 a.最高的；顶上的
+topic               n.话题,主题,题目
+torch               n.手电筒;火炬,火把
+torment             n.折磨；令人痛苦的东西(人)vt.折磨；纠缠
+torrent             n.激流，洪流；爆发，(话语等的)连发
+torture             v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦
+toss                vt.向上掷/扔；摇摆，颠簸 n.投，扔；摇动
+total               n.总数,合计 a.总的,全部的 v.合计,总数达
+touch               v.触,碰,摸;感动;涉及 n.触动,碰到;少许
+tough               a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的
+tour                n.旅游，旅行；巡回演出/比赛 v.旅游
+tourist             n.旅游者，观光客；巡回比赛的运动员
+tow                 vt.(用绳、链等)拖(车、船等) n.拖,牵引
+toward              prep.(towards)朝，向；将近；对于；为了
+towel               n.毛巾 vt.用毛巾擦或擦干
+tower               n.塔 v.高耸
+town                n.市镇；市民；城市商业区，闹市区
+toxic               a.有毒的；中毒的
+toy                 n.玩具 vi.(with)漫不经心地考虑；摆弄
+trace               n.痕迹,踪迹;极少量 v.描绘;跟踪,追踪
+track               n.跑道,小路;轨迹,轮迹 v.跟踪,追踪
+tractor             n.拖拉机,牵引车
+trade               n.贸易,商业;职业,行业 v.经商,交易
+trademark           n.商标；特征 vt.注册的…商标
+tradition           n.传统； 惯例； 传说
+traffic             n.交通,交通量
+tragedy             n.悲剧;惨事,灾难
+tragic              a.悲剧的,悲惨的
+trail               n.踪迹,痕迹;小路 v.追踪,跟踪;拖,拖曳;
+train               n.列车;行列,系列,一串 v.训练,培养
+training            n.训练,培养
+trait               n.特征,特点,特性
+traitor             n.叛徒,卖国贼
+tram                n.有轨电车
+tramp               n./v 步行;沉重的脚步声(走)v.践踏 n.流浪者
+transaction         n.办理,处理;交易,事务;(pl.)会报,学报
+transcend           vt.超出,超越(经验、知识、能力的范围等)
+transfer            vt./n.转移；转换；转让；过户；迁移；改乘
+transform           vt.改变,变换;变压;转化;改造,改造
+transient           a.短暂的，转瞬即逝的；临时的，暂住的
+transistor          n.晶体管；晶体管收音机
+transition          n.转变，变迁，过渡(时期)
+translate           v.翻译，解释；转化，
+translation         n.翻译;译文,译本
+transmission        n.播送,发射;传动,传送
+transmit            vt.传输/导；转送；发射 vi.发射信号；发报
+transparent         a.透明的，透光的；易理解的；明显的
+transplant          n./v.移植(植物；组织,器官等)；迁移；
+transport           v.运输,运送,搬运 n.运输;运输系统,运载工具
+trap                n.陷阱，圈套 vt.诱捕；使中圈套 vi.设圈套
+trash               n.垃圾；拙劣的作品；渣滓，败类
+travel              n.旅行 v.旅行;行进,传播
+tray                n.盘,碟,托盘
+treason             n.谋反,通敌,叛国
+treasure            n.财宝,财富;珍品 v.珍爱,珍惜
+treat               v.对待;治疗;论述;款待,请客 n.款待,请客
+treaty              n.条约，协议，协商
+tree                n.树,树状物 vi.爬上树
+tremble             n.战栗,颤抖 v.发抖,颤抖；摇动；焦虑
+tremendous          a.巨大的,极大的
+trench              n.&v.(挖)沟，(挖)战壕
+trend               n.倾向,趋势 vi.伸向,倾向
+trial               n.讯问，审讯；试验；试用；尝试
+triangle            n.三角(形)
+tribe               n.种族，部落；(植物，动物)族，类
+tribute             n.贡品;颂词,称赞,(表示敬意的)礼物
+trick               n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗
+trifle              n.少量；小事,琐事 v.玩弄；嬉耍；忽视
+trigger             n.扳机 vt.触发，引起
+trim                a.整齐的,整洁的 v./n.整理,修整,装饰
+trip                n.旅行,远足 v.绊倒；失足；犯错
+triple              n.三倍数 a.三倍的;三部分构成的 v.使成三倍
+triumph             n.胜利,成功 v.得胜,战胜
+trivial             a.琐碎的;无足轻重的
+trolley             n.手推车;(英)无轨电车,(美)有轨电车
+troop               n.(pl.)部队,军队;(一)群/队 v.群集,集合
+tropic              n.回归线；[the T-s]热带地区
+tropical            a.热带的
+trouble             n.烦恼;动乱;疾病;故障;辛苦 v.(使)烦恼
+troublesome         a.令人烦恼的,讨厌的
+trousers            n.裤子
+truck               n.卡车,载重汽车
+true                a.真实，不假的；忠实，可靠的；正确无误的
+trumpet             n.喇叭,小号
+trunk               n.大衣箱,皮箱;(汽车后部)行李箱;树干,躯干
+trust               vt.信任;盼望;委托 n.(in)信任,依赖;委托
+truth               n.真实，真相；真实性；真理
+try                 v.尝试，试图；试验，试用；审讯 n.尝试
+tub                 n.木盆,澡盆
+tube                n.管,软管;电子管,显像管;地铁
+tuck                v.卷起;塞进
+Tuesday             n.星期二
+tug                 v.用力拖(或拉)；苦干 n.拖；苦干；拖船
+tuition             n.学费；(某一学科的)教学，讲授，指导
+tumble              v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒
+tumour              n.(tumor)(肿)瘤，肿块
+tune                n.调子,曲调;和谐,协调 vt.调音,调节,调整
+tunnel              n.隧道,山洞
+turbine             n.汽轮机,涡轮机
+turbulent           a.狂暴的,无秩序的
+turkey              n.火鸡(肉)
+turn                v./n.(使)转动;(使)旋转;(使)转变 n.机会
+turnover            n.翻倒(物);人员调整;(资金等)周转;营业额
+tutor               n.导师;家庭教师 v.辅导;当导师;当家庭教师
+TV                  n.(television)电视；电视机
+twelve              num.十二 pron./a.十二(个，只...)
+twenty              num.二十 pron./a.二十(个，只...)
+twice               ad.两次,两倍
+twin                a.双的,成对的,孪生的 n.孪生子,双生子
+twinkle             vi.(星等)闪烁，(眼情)发亮 n.闪烁，闪光
+twist               v.捻;拧;扭曲;蜿蜒曲折而行 n.拧;歪曲;曲折
+two                 num.二，两个 n.两个(人或物)
+type                n.型式，类型；印刷字体；活/铅字 v.打字
+typewriter          n.打字机
+typhoon             n.台风
+typical             a.(of)典型的,有代表性的
+typist              n.打字员

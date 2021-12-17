@@ -83,7 +83,6 @@ public class UserInfoActivity extends AppCompatActivity implements View.OnClickL
                                         Susername = username.getText().toString();
                                         Spassword = password.getText().toString();
                                         Log.e("reg", "点击注册");
-                                        ;
 
                                         try {
                                             if (Susername != null & Spassword != null) {
@@ -98,7 +97,7 @@ public class UserInfoActivity extends AppCompatActivity implements View.OnClickL
 
                                         Susername = null;
                                         Spassword = null;
-                                        Runtime runtime = Runtime.getRuntime();
+
                                         TimerTask task = new TimerTask() {
                                             public void run() {
                                                 TipDialog.show("注册成功", WaitDialog.TYPE.SUCCESS);
@@ -107,6 +106,7 @@ public class UserInfoActivity extends AppCompatActivity implements View.OnClickL
                                         Timer timer = new Timer();
                                         timer.schedule(task, 300);
                                         try {
+                                            Runtime runtime = Runtime.getRuntime();
                                             runtime.exec("input keyevent " + KeyEvent.KEYCODE_BACK);
 
                                         } catch (IOException e) {
