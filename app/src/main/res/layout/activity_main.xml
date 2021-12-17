@@ -5,14 +5,13 @@
     android:id="@+id/linear"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    >
+    android:orientation="vertical">
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:scrollbars="none"
-        android:layout_marginTop="20dp">
+        android:layout_marginTop="20dp"
+        android:scrollbars="none">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -21,9 +20,9 @@
 
 
             <LinearLayout
-                android:layout_marginTop="50dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
                 android:orientation="horizontal">
 
                 <com.lihang.ShadowLayout
@@ -251,17 +250,18 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
+
                 <com.lihang.ShadowLayout
-                    android:layout_weight="1"
+                    android:id="@+id/toC"
                     android:layout_width="match_parent"
                     android:layout_height="248dp"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="4dp"
                     android:layout_marginRight="4dp"
+                    android:layout_weight="1"
                     app:hl_angle="90"
                     app:hl_cornerRadius="20dp"
 
-                    app:hl_startColor="#1FA2FF"
                     app:hl_endColor="#12D8FA"
                     app:hl_layoutBackground="#f4f4f4"
                     app:hl_layoutBackground_true="#ecf0f1"
@@ -269,69 +269,63 @@
                     app:hl_shadowLimit="6dp"
                     app:hl_shadowOffsetY="6dp"
                     app:hl_shapeMode="ripple"
-                    >
+                    app:hl_startColor="#1FA2FF">
 
-                    <TextView
-                        android:id="@+id/toleft"
+                    <LinearLayout
                         android:layout_width="match_parent"
-                        android:layout_height="225dp"
-                        android:alpha="60"
-                        android:gravity="center"
-                        android:paddingLeft="20sp"
-                        android:paddingRight="20sp"
-                        android:text=" "
-                        android:textColor="#3E3E3E"
-                        android:textSize="20sp"
-                         />
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="每日单词"
+                            android:textColor="#ffffff"
+                            android:textSize="20sp"
+                            android:typeface="serif" />
+
+                        <TextView
+                            android:id="@+id/toleft_up"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="bottom|center_horizontal"
+                            android:paddingLeft="20sp"
+                            android:paddingRight="20sp"
+                            android:text=" "
+                            android:textColor="#ffffff"
+                            android:textSize="40sp" />
+
+                        <TextView
+                            android:id="@+id/toleft_down"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginTop="-20dp"
+                            android:layout_weight="1"
+                            android:alpha="60"
+                            android:gravity="top|center_horizontal"
+                            android:paddingLeft="20dp"
+                            android:paddingRight="20sp"
+                            android:text=" "
+                            android:textColor="#eeffffff"
+                            android:textSize="10sp" />
+                    </LinearLayout>
                 </com.lihang.ShadowLayout>
+
                 <LinearLayout
-                    android:layout_weight="1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:layout_weight="1"
                     android:orientation="vertical">
-                <com.lihang.ShadowLayout
-                    android:layout_weight="1"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="4dp"
-                    android:layout_marginRight="4dp"
-                    app:hl_angle="90"
-                    app:hl_cornerRadius="20dp"
-                    app:hl_endColor="#f4f4f4"
-                    app:hl_layoutBackground="#f4f4f4"
-                    app:hl_layoutBackground_true="#4a90e2"
-                    app:hl_shadowColor="#2a000000"
-                    app:hl_shadowLimit="6dp"
-                    app:hl_shadowOffsetY="6dp"
-                    app:hl_shapeMode="ripple"
-                    app:hl_startColor="#f0f0f0">
-
-                    <com.kproduce.roundcorners.RoundTextView
-                        android:background="@drawable/read"
-                        android:id="@+id/toright_up"
-                        android:layout_width="match_parent"
-                        android:layout_height="225dp"
-                        android:alpha="60"
-                        android:gravity="center"
-                        android:paddingLeft="20sp"
-                        android:paddingRight="20sp"
-                        android:text=" "
-                        android:textColor="#3E3E3E"
-                        android:textSize="20sp"
-                        app:rBottomLeftRadius="20dp"
-                        app:rBottomRightRadius="20dp"
-                        app:rTopLeftRadius="20dp"
-                        app:rTopRightRadius="20dp" />
-                </com.lihang.ShadowLayout>
 
                     <com.lihang.ShadowLayout
-                        android:layout_weight="1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center_horizontal"
                         android:layout_marginLeft="4dp"
                         android:layout_marginRight="4dp"
+                        android:layout_weight="1"
                         app:hl_angle="90"
                         app:hl_cornerRadius="20dp"
                         app:hl_endColor="#f4f4f4"
@@ -342,6 +336,43 @@
                         app:hl_shadowOffsetY="6dp"
                         app:hl_shapeMode="ripple"
                         app:hl_startColor="#f0f0f0">
+
+                        <com.kproduce.roundcorners.RoundTextView
+                            android:id="@+id/toright_up"
+                            android:layout_width="match_parent"
+                            android:layout_height="225dp"
+                            android:alpha="60"
+                            android:background="@drawable/read"
+                            android:gravity="center"
+                            android:paddingLeft="20sp"
+                            android:paddingRight="20sp"
+                            android:text=" "
+                            android:textColor="#3E3E3E"
+                            android:textSize="20sp"
+                            app:rBottomLeftRadius="20dp"
+                            app:rBottomRightRadius="20dp"
+                            app:rTopLeftRadius="20dp"
+                            app:rTopRightRadius="20dp" />
+                    </com.lihang.ShadowLayout>
+
+                    <com.lihang.ShadowLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginRight="4dp"
+                        android:layout_weight="1"
+                        app:hl_angle="90"
+                        app:hl_cornerRadius="20dp"
+                        app:hl_endColor="#f4f4f4"
+                        app:hl_layoutBackground="#f4f4f4"
+                        app:hl_layoutBackground_true="#4a90e2"
+                        app:hl_shadowColor="#2a000000"
+                        app:hl_shadowLimit="6dp"
+                        app:hl_shadowOffsetY="6dp"
+                        app:hl_shapeMode="ripple"
+                        app:hl_startColor="#f0f0f0">
+
                         <com.kproduce.roundcorners.RoundTextView
                             android:id="@+id/toright_down"
                             android:layout_width="match_parent"
@@ -357,10 +388,15 @@
                             app:rBottomRightRadius="20dp"
                             app:rTopLeftRadius="20dp"
                             app:rTopRightRadius="20dp" />
-                </com.lihang.ShadowLayout>
+                    </com.lihang.ShadowLayout>
                 </LinearLayout>
 
             </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:orientation="vertical"></LinearLayout>
 
         </LinearLayout>
 

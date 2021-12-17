@@ -1,7 +1,9 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:orientation="vertical"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
@@ -11,14 +13,26 @@
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:id="@+id/snackbar_container"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="0dp" />
 
     <ListView
         android:id="@+id/capList"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="18dp"></ListView>
+        android:layout_marginTop="18dp" />
 
-</RelativeLayout>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginTop="-100dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        app:backgroundTint="@color/gray"
+        app:layout_anchorGravity="bottom|end"
+        app:rippleColor="@color/white"
+        app:srcCompat="@drawable/shibai" />
+
+
+</LinearLayout>

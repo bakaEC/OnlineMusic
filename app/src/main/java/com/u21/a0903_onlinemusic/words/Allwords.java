@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -13,6 +14,7 @@ import android.widget.ListView;
 
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 import com.u21.a0903_onlinemusic.R;
 import com.u21.a0903_onlinemusic.WordLearningActivity;
@@ -31,6 +33,7 @@ public class Allwords extends Activity implements OnItemClickListener {
 	private ListView lv;
 	private ArrayAdapter<String> adpter;
 	private List<String> list = new ArrayList<String>();
+	private FloatingActionButton fab;
 
 	protected void onCreate(Bundle savedInstanceState) {
 
@@ -39,10 +42,23 @@ public class Allwords extends Activity implements OnItemClickListener {
 
 		Intent intent = getIntent();
 		String str = intent.getStringExtra("Key");
-		CoordinatorLayout coordinatorLayout = findViewById(R.id.snackbar_container);
-		Snackbar.make(coordinatorLayout, str, Snackbar.LENGTH_SHORT);
+//		CoordinatorLayout coordinatorLayout = findViewById(R.id.snackbar_container);
+//		Snackbar.make(coordinatorLayout, str, Snackbar.LENGTH_SHORT);
 
 		lv = (ListView) findViewById(R.id.capList);
+		fab = findViewById(R.id.fab);
+
+		fab.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				Runtime runtime = Runtime.getRuntime();
+				try {
+					runtime.exec("input keyevent " + KeyEvent.KEYCODE_BACK);
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		});
 
 
 		try {

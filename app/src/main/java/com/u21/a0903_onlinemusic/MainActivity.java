@@ -27,12 +27,14 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
 import com.google.android.material.snackbar.BaseTransientBottomBar;
 import com.google.android.material.snackbar.Snackbar;
+import com.lihang.ShadowLayout;
 import com.u21.a0903_onlinemusic.translate.Translate;
 import com.u21.a0903_onlinemusic.translate.pic.Const;
 import com.u21.a0903_onlinemusic.translate.pic.data.Config;
@@ -47,11 +49,15 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 public class MainActivity extends AppCompatActivity implements TextWatcher, View.OnClickListener {
 
@@ -60,13 +66,17 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
     private ArrayAdapter<String> arr_adapter;   // 下拉框Adapter
     private EditText from;
     private TextView to;
+    private TextView wordmain;
+    private TextView wordexp;
     private LinearLayout layout;
     private MaterialIconView trans_pic;                // 图片翻译按钮
     private ImageView view;                     // 图片预览view
     private ImageView clear;                    // 清空按钮
     private String pic_result;                  // 图片绝对路径
+    private ShadowLayout toC;
 
-    public String sentence="美好的事即将发生";
+
+    public String sentence = "美好的事即将发生";
 
 
     //设置要转换的语言
@@ -91,6 +101,9 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         trans_pic = findViewById(R.id.transpic);
         view = findViewById(R.id.view);
         clear = findViewById(R.id.clear);
+        wordmain = findViewById(R.id.toleft_up);
+        wordexp = findViewById(R.id.toleft_down);
+        toC = findViewById(R.id.toC);
 
         //初始化数据
         data_list = new ArrayList<String>();
@@ -144,6 +157,23 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
             }
         });
 
+        String word = getRandWord();
+        int index = word.indexOf(" ");
+        String name = word.substring(0, index);
+        String explain = word.substring(index + 1);
+        StringBuilder stringBuilder = new StringBuilder(explain);
+
+        String[] sign = {"a.", "v.", "n.", "vi.", "vt.", "ad.", "adj.", "adv.", "pron."};
+        for (String s : sign) {
+            if (explain.indexOf(s) > 0) {
+                stringBuilder.insert(explain.indexOf(s), "\n");
+            }
+        }
+
+
+        wordmain.setText(name);
+        wordexp.setText(stringBuilder.toString());
+
         //设置输入框监听
         from.addTextChangedListener(this);
 
@@ -155,8 +185,10 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
 
         to.setOnClickListener(this);
 
+        toC.setOnClickListener(this);
 
     }
+
 
     @Override
     public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -295,16 +327,35 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
             trans_pic.setImageDrawable(MaterialDrawableBuilder.with(v.getContext()).setIcon(MaterialDrawableBuilder.IconValue.CAMERA).setColor(Color.BLACK).build());
         }
         if(v==to){
-            if(to.getText()!=null&&to.getText()!=sentence) {
+            if (to.getText() != null && to.getText() != sentence) {
                 //获取剪贴板管理器：
                 ClipboardManager cm = (ClipboardManager) this.getSystemService(Context.CLIPBOARD_SERVICE);
                 // 创建普通字符型ClipData
                 ClipData mClipData = ClipData.newPlainText("Label", to.getText());
                 // 将ClipData内容放到系统剪贴板里。
                 CoordinatorLayout coordinatorLayout = findViewById(R.id.coordinator);
-                Snackbar.make(coordinatorLayout,"内容已复制到剪贴板！", Snackbar.LENGTH_SHORT).setAnimationMode(BaseTransientBottomBar.ANIMATION_MODE_FADE).show();
+                Snackbar.make(coordinatorLayout, "内容已复制到剪贴板！", Snackbar.LENGTH_SHORT).setAnimationMode(BaseTransientBottomBar.ANIMATION_MODE_FADE).show();
                 cm.setPrimaryClip(mClipData);
             }
+        }
+        if (v == toC) {
+            String word = getRandWord();
+            Toast.makeText(this, word, Toast.LENGTH_SHORT).show();
+            int index = word.indexOf(" ");
+            String name = word.substring(0, index);
+            String explain = word.substring(index + 1);
+            StringBuilder stringBuilder = new StringBuilder(explain);
+
+            String[] sign = {"a.", "v.", "n.", "vi.", "vt.", "ad.", "adj.", "adv.", "pron.", "; "};
+            for (String s : sign) {
+                if (explain.indexOf(s) > 0) {
+                    stringBuilder.insert(explain.indexOf(s), "\n");
+                }
+            }
+
+
+            wordmain.setText(name);
+            wordexp.setText(stringBuilder.toString());
 
         }
     }
@@ -354,12 +405,35 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         Uri uri = Uri.fromFile(file);
         intent.setData(uri);
         context.sendBroadcast(intent);
-        //Toast.makeText(context,"保存成功！",Toast.LENGTH_SHORT).show();
 
         return path;
+    }
 
+    public String getRandWord() {
+        String word = null;
+        List<String> list = new ArrayList<>();
 
+        try {
+            InputStream inputStream = getResources().getAssets().open("Allwords.txt");
+            InputStreamReader streamReader = new InputStreamReader(inputStream);
+            BufferedReader reader = new BufferedReader(streamReader);
+            Random random = new Random();
+            int ran = random.nextInt(5120);
+            String line = null;
+            for (int i = 0; (line = reader.readLine()) != null; i++) {
+                if (i == ran) {
+                    word = line;
+                }
+                list.add(line);
+            }
+            reader.close();
+            inputStream.close();
+            streamReader.close();
 
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return word;
     }
 
 }

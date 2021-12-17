@@ -15,12 +15,11 @@ import com.u21.a0903_onlinemusic.words.Allwords;
 import com.u21.a0903_onlinemusic.words.Randomwords;
 import com.u21.a0903_onlinemusic.words.WordActivity;
 
-public class WordLearningActivity extends Activity implements View.OnClickListener, AdapterView.OnItemClickListener {
+public class WordLearningActivity extends Activity implements AdapterView.OnItemClickListener {
 
     private ListView CapList;
     private ArrayAdapter<String> capAdapter;
 
-    private TextView Rbtn;
 
     String arry[] = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"};
 
@@ -31,14 +30,13 @@ public class WordLearningActivity extends Activity implements View.OnClickListen
         setContentView(R.layout.activity_menu);
 
         CapList = (ListView) findViewById(R.id.listView1);
-        Rbtn = (TextView) findViewById(R.id.rand);
 
 
         capAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, arry);
         CapList.setAdapter(capAdapter);
 
         CapList.setOnItemClickListener(this);
-        Rbtn.setOnClickListener(this);
+
     }
 
 
@@ -50,14 +48,7 @@ public class WordLearningActivity extends Activity implements View.OnClickListen
     }
 
 
-    @Override
-    public void onClick(View v) {
 
-        Intent intent = new Intent(WordLearningActivity.this, Randomwords.class);
-
-        startActivity(intent);
-
-    }
 
     @Override
     public void onItemClick(AdapterView<?> arg0, View arg1, int index, long arg3) {

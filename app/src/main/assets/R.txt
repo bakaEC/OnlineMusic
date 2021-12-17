@@ -1,5 +1,3 @@
-R类
-
 rabbit              n.兔子
 race                n.赛跑;人种,种族;属,种 v.赛跑
 racial              a.种的,种族的

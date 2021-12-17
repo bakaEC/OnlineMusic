@@ -7,7 +7,6 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.RequiresApi;
 
@@ -24,31 +23,30 @@ import java.util.Random;
 public class Randomwords extends Activity implements OnClickListener {
 
 
-	private TextView wordText, explain;
-	private List<String> list = new ArrayList<String>();
-	private RelativeLayout wordInterface;
-	String word;
-	String name;
+    private TextView wordText, wordExplain;
+    private List<String> list = new ArrayList<String>();
+    private RelativeLayout wordInterface;
+    String word;
+    String name;
 
-	@RequiresApi(api = Build.VERSION_CODES.N)
-	protected void onCreate(Bundle savedInstanceState) {
+    @RequiresApi(api = Build.VERSION_CODES.N)
+    protected void onCreate(Bundle savedInstanceState) {
 
-		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_randwords);
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_randwords);
 
-		//实例化控件
-		wordText = (TextView) findViewById(R.id.wordmain);
-		explain = (TextView) findViewById(R.id.wordexp);
+        wordText = (TextView) findViewById(R.id.wordmain);
+        wordExplain = (TextView) findViewById(R.id.wordexp);
 
-		wordInterface = (RelativeLayout) findViewById(R.id.randwordsInterface);
-		wordInterface.setOnClickListener(this);
+        wordInterface = (RelativeLayout) findViewById(R.id.randwordsInterface);
+        wordInterface.setOnClickListener(this);
 
 
-		try {
+        try {
 
-			InputStream inputStream = getResources().getAssets().open("Allwords.txt");
-			InputStreamReader streamReader = new InputStreamReader(inputStream);
-			BufferedReader reader = new BufferedReader(streamReader);
+            InputStream inputStream = getResources().getAssets().open("Allwords.txt");
+            InputStreamReader streamReader = new InputStreamReader(inputStream);
+            BufferedReader reader = new BufferedReader(streamReader);
 			Random random = new Random();
 			int ran = random.nextInt(5120);
 			String line = null;
@@ -60,43 +58,33 @@ public class Randomwords extends Activity implements OnClickListener {
 			}
 			reader.close();
 			inputStream.close();
-			streamReader.close();
+            streamReader.close();
 
-		} catch (Exception e) {
-			Toast.makeText(this, e.toString(), Toast.LENGTH_SHORT).show();
-		}
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
-		int index = word.indexOf(" ");
-
-
-		name = word.substring(0, index);
-		String explain = word.substring(index);
-
-		wordText.setText(name);
-		this.explain.setText(explain);
-	}
+        int index = word.indexOf(" ");
+        name = word.substring(0, index);
+        String explain = word.substring(index);
+        wordText.setText(name);
+        wordExplain.setText(explain);
+    }
 
 
 	@Override
 	public void onClick(View arg0) {
 
-		Random r = new Random();
+        Random r = new Random();
+        int ran = r.nextInt(5120);
+        word = list.get(ran);
+        int index = word.indexOf(" ");
+        name = word.substring(0, index);
+        String explain = word.substring(index);
+        wordText.setText(name);
+        wordExplain.setText(explain);
 
-		int ran = r.nextInt(5120);
-
-		word = list.get(ran);
-
-		int index = word.indexOf(" ");
-
-
-		name = word.substring(0, index);
-		String explain = word.substring(index);
-
-
-		wordText.setText(name);
-		this.explain.setText(explain);
-
-	}
+    }
 
 
 }

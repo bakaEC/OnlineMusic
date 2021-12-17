@@ -1,5 +1,3 @@
-Z类
-
 zeal                n.热心，热忱，热情
 zebra               n.斑马
 zero                n.零,零度 num.零
