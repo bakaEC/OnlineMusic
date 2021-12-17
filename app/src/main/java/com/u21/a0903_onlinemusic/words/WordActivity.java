@@ -34,7 +34,6 @@ public class WordActivity extends Activity {
 
 		super.onCreate(savedInstanceState);
 
-		//实例化控件
 		Intent intent = getIntent();
 		word = intent.getStringExtra("Word");
 
