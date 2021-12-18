@@ -158,7 +158,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         });
 
         String word = getRandWord();
-        int index = word.indexOf(" ");
+        int index = word.indexOf("|");
         String name = word.substring(0, index);
         String explain = word.substring(index + 1);
         StringBuilder stringBuilder = new StringBuilder(explain);
@@ -338,7 +338,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         if (v == toC) {
             String word = getRandWord();
             //Toast.makeText(this, word, Toast.LENGTH_SHORT).show();
-            int index = word.indexOf(" ");
+            int index = word.indexOf("|");
             String name = word.substring(0, index);
             String explain = word.substring(index + 1);
             StringBuilder stringBuilder = new StringBuilder(explain);

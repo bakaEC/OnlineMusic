@@ -64,7 +64,7 @@ public class Randomwords extends Activity implements OnClickListener {
             e.printStackTrace();
         }
 
-        int index = word.indexOf(" ");
+        int index = word.indexOf("|");
         name = word.substring(0, index);
         String explain = word.substring(index);
         wordText.setText(name);

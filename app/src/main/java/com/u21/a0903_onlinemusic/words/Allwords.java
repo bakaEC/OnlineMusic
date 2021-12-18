@@ -26,6 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
+
 public class Allwords extends Activity implements OnItemClickListener {
 
 
@@ -69,7 +70,7 @@ public class Allwords extends Activity implements OnItemClickListener {
 			String line;
 			while ((line = br.readLine()) != null) {
 
-				int index = line.indexOf(" ");
+				int index = line.indexOf("|");
 				String name = line.substring(0, index);
 				String explain = line.substring(index);
 
@@ -98,6 +99,8 @@ public class Allwords extends Activity implements OnItemClickListener {
 		Intent intent = new Intent(this, WordActivity.class);
 		intent.putExtra("Word",list.get(pos));
 		startActivity(intent);
+
+
 	}
 
 	class WordAdapter extends BaseAdapter {

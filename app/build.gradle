@@ -50,7 +50,6 @@ dependencies {
     implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.12.1'
     implementation 'net.steamcrafted:materialiconlib:1.1.5'
     implementation 'androidx.coordinatorlayout:coordinatorlayout:1.1.0'
-
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 

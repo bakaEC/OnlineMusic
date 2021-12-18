@@ -39,11 +39,11 @@ public class WordActivity extends Activity {
 		wordExp = findViewById(R.id.wordexp);
 
 
-		int index = word.indexOf(" ");
+		int index = word.indexOf("|");
 
 
 		name = word.substring(0, index);
-		String explain = word.substring(index);
+		String explain = word.substring(index+1);
 
 		wordMain.setText(name);
 		wordExp.setText(explain);
