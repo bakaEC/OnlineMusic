@@ -5,16 +5,25 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.BaseAdapter;
 import android.widget.ListView;
 
+import com.u21.a0903_onlinemusic.entity.Word;
+import com.u21.a0903_onlinemusic.viewholder.MusicViewHolder;
+import com.u21.a0903_onlinemusic.viewholder.WordViewHolder;
 import com.u21.a0903_onlinemusic.words.Allwords;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class WordListActivity extends Activity implements AdapterView.OnItemClickListener {
 
     private ListView CapList;
     private ArrayAdapter<String> capAdapter;
+
 
 
     String[] arry = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"};
@@ -54,6 +63,8 @@ public class WordListActivity extends Activity implements AdapterView.OnItemClic
 
         startActivity(intent);
     }
+
+
 
 
 }

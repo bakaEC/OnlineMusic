@@ -1,156 +1,155 @@
-
-wage                n.(常 pl.)工资,报酬 vt.进行,开展
-wagon               n.运货马车,运货车;敞蓬车厢
-waist               n.腰,腰部
-wait                v.(for)等待；(on)侍候 n.等候，等待时间
-waiter              n.侍者,服务员
-waitress            n.女侍者,女服务员
-wake                v.醒来,唤醒;使觉醒,激发,引起
-waken               v.醒,弄醒,唤醒
-walk                v.走，步行，散步；走遍 n.走，步行，散步
-wall                n.墙，壁，围墙 vt.筑墙围住，用墙隔开
-wallet              n.皮夹,钱包
-wander              v.漫步,徘徊;迷路,迷失方向;离题
-want                vt.想要;希望;需要;缺,缺少 n.需要;短缺
-war                 n.战争(状态)；冲突 vi.作战
-ward                n.病房;行政区;监护;被监护人 vt.挡住
-wardrobe            n.衣柜,衣厨;衣服;行头;剧装
-warehouse           n.仓库,货栈
-warfare             n.战争(状态);斗争;冲突
-warm                a.温暖的，热心的，热情的 v.(使)变暖
-warmth              n.暖和,温暖;热心,热情
-warn                vt.警告 vi.发出警告
-warrant             n.正当理由;许可证,委任状 v.保证,担保
-wash                n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡
-waste               v.浪费 a.无用的;荒芜的 n.浪费;废物
-watch               v.观看；看守；(for)窥伺，等待 n.看管；表
-watch               v.观看;注视;看守;警戒 n.注视;手表;守护
-water               n.水 vt.浇灌；给…饮水 vi.流泪，加水
-waterfall           n.瀑布
-waterproof          a.防水的,耐水的
-watt                n.瓦,瓦特
-wave                n.波浪;(挥手)示意;飘扬 v.(挥手)示意,致意
-wax                 n.蜡,蜂蜡 v.打蜡
-way                 n.道路，路程；方法/式，手段；习惯；状态
-we                  pron．我们<主格>
-weak                a.虚弱的,软弱的;不够标准的;淡薄的,稀的
-wealth              n.财富,财产;大量
-wealthy             a.富有的,丰裕的,充分的 n.富人,有钱人
-weapon              n.武器,兵器
-wear                v.穿着，戴着；磨损，用旧 n.穿，戴；磨损
-weary               a.疲倦的;令人厌烦的 v.使疲倦,使厌倦
-weather             n.天气,气象
-weave               v.编(织) n.编织法，编织式样
-web                 n.网,蜘蛛网
-wedding             n.婚礼
-wedge               n.楔,楔形 vt.楔牢,楔入,挤进
-Wednesday           n.星期三
-weed                n.杂草,野草 v.除草,锄草
-week                n.星期，周
-weekday             n.平常日,工作日
-weekend             n.周末
-weekly              a.每星期的,一周的 ad.每周一次 n.周刊,周报
-weep                v.哭泣,流泪;滴下 n.哭泣
-weigh               v.称…重量,称;重达;考虑,权衡
-weight              n.重量;负荷,重担;重要性,分量;砝码,秤砣
-weird               a.古怪的，离奇的；怪诞的，神秘而可怕的
-welcome             int.欢迎 a.受欢迎的 vt./n.欢迎；迎接
-weld                v.焊接 n.焊接,焊缝
-welfare             n.福利；幸福；福利事业
-well                ad.好，令人满意地；很 int.哎呀，好啦，嗯
-well-known          a.有名的,著名的
-west                n./a.西,西方(的),西部(的) ad.向西
-western             a.西方的,西部的
-wet                 a.湿的,潮湿的;有雨的,多雨的 v.弄湿,沾湿
-whale               n.鲸；庞然大物
-what                pron.什么 a.多么，何等；什么；尽可能多的
-whatever            pron.无论什么 a.无论什么样的
-whatsoever          ad.(用于否定句中以加强语气)任何
-wheat               n.小麦
-wheel               n.轮,车轮
-when                ad./pron.何时；当时 conj.那时；然后；而
-whenever            conj.无论何时,随时;每当
-where               ad.在哪/那里 conj./pron.哪里 conj.然而
-whereas             conj.而,却,反之
-wherever            conj.无论在哪里 ad.无论在哪里,究竟在哪里
-whether             conj.是否，会不会，不管，无论
-which               a./pron.哪个，哪些；什么样的；那个，那些
-whichever           pron./a.无论哪个,无论哪些
-while               conj.当…的时候；而；虽然；尽管 n.一会儿
-whip                n.鞭子;车夫 v.鞭打,抽打;突然移动
-whirl               v.(使)旋转,打转 n.旋转;-连串快速的活动
-whisky              n.威士忌酒
-whisper             v.耳语;私下说,偷偷告诉 n.耳语;传闻
-whistle             n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛
-white               a.白色的；苍白的；白种的 n.白色；白种人
-who                 pron.谁，什么人；…的人；他，她，他们
-whoever             pron.[引导名词从句]谁；无论谁；究竟是谁
-whole               n.全部 a.全体的；全部的；完整的；无缺的
-wholesome           a.卫生的;有益的;健康的,有益健康的
-wholly              ad.完全地,全部,一概
-whom                pron.谁；哪个人(who 的宾格)
-whose               pron.谁的；哪(个)人的，那些(人)的
-why                 ad./conj.为什么；…的理由 int.咳，哎呀
-wicked              a.坏的;邪恶的;不道德的;恶劣的;淘气的
-wide                a.宽阔的;睁大的;远离的 ad.广阔地;偏差地
-widespread          a.分布广泛的,普遍的
-widow               n.寡妇
-width               n.宽度;宽阔,广阔
-wife                n.妻子，夫人，太太
-wild                a.野性的,野生的;野蛮的;狂热的;荒芜的
-will                aux./v. 将；会；愿意 n.意志；决心；愿望
-willing             a.愿意的，乐意的，心甘情愿的
-win                 vi.获胜，赢 vt.赢得；在…中获胜 n.胜利
-wind                n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行
-window              n.窗,窗口
-wine                n.葡萄酒,果酒
-wing                n.翅,翅膀;翼,机翼;派别 vt.装以翼
-wink                v.(使)眨眼；眨眼示意 n.眨眼；小睡，打盹
-winter              n.冬季，冬天
-wipe                v./n.擦,揩,抹
-wire                n.金属线,电线;电报,电信 v.发电报(给)
-wisdom              n.智慧,明智;名言,格言
-wise                a.有智慧的,聪明的
-wish                v.希望；但愿；祝 n.愿望，希望；[pl.]祝愿
-wit                 n.智力,才智,智慧
-witch               n.女巫, 巫婆，巫师
-with                prep.跟…一起；用；具有；关于；因；随着
-withdraw            v.收回,撤消;缩回,退出;提取(钱)
-withhold            vt.使停止;拒给;保留;抑制 vi.忍住
-within              prep.在…里面,在…以内 ad.在内
-without             prep.无，没有 n.外面，外部
-withstand           vt.抵抗,经受住
-witness             n.目击者,证人;证据,证明 v.目击,目睹;作证
-wolf                n.狼
-woman               n.(pl.）women 妇女，成年女子
-wonder              n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道
-wonderful           a.惊人的,奇妙的;极好的
-wood                n.木材，木头，木料；(pl.)森林，林地
-wooden              a.木制的;呆笨的
-wool                n.羊毛,毛线,毛织品
-word                n.词，词语；言语，话；谈话；消息，信息
-work                n.工作(量)；作品；[pl.]工厂 v.工作；运转
-worker              n.工人，工作者，工作人员
-workshop            n.车间，工场，修理厂；研讨会，讲习班
-world               n.世界，地球；…界，领域；世间；全世界
-worldwide           a.全世界的,世界范围的 ad.遍及全世界
-worm                n.虫,蠕虫
-worry               v.烦恼;(about)对…感到烦恼 n.烦恼,焦虑
-worse               a./ad.更坏,更差(的/地)
-worship             n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜
-worst               a./ad.最坏(的),最差(的)
-worth               n.价值 a.值…的,价值…的,值得…的
-worthwhile          a.值得(做)的
-worthy              a.(of)值得…的,配得上…的;有价值的
-would               aux./v.将；可能；将会；总是，总会；宁愿
-wound               n.创伤,伤口 v.伤,伤害
-wrap                v.裹,缠,卷,包 n.披肩,围巾
-wreath              n.花环,花圈
-wreck               n.失事船(或飞机)v.(船等)失事,遇难;破坏
-wrench              v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受
-wretched            a.可怜的;悲惨的;肮脏的;恶劣的
-wrinkle             n.皱纹 v.起皱,皱眉
-wrist               n.腕,腕关节
-write               v.写，书写，写字；写作；写信(给)，函告
-writing             n.写,写作;著作,作品
-wrong               a.错的 ad.错误地，不正确地 n.错误 v.委屈
+wage|n.(常 pl.)工资,报酬 vt.进行,开展
+wagon|n.运货马车,运货车;敞蓬车厢
+waist|n.腰,腰部
+wait|v.(for)等待；(on)侍候 n.等候，等待时间
+waiter|n.侍者,服务员
+waitress|n.女侍者,女服务员
+wake|v.醒来,唤醒;使觉醒,激发,引起
+waken|v.醒,弄醒,唤醒
+walk|v.走，步行，散步；走遍 n.走，步行，散步
+wall|n.墙，壁，围墙 vt.筑墙围住，用墙隔开
+wallet|n.皮夹,钱包
+wander|v.漫步,徘徊;迷路,迷失方向;离题
+want|vt.想要;希望;需要;缺,缺少 n.需要;短缺
+war|n.战争(状态)；冲突 vi.作战
+ward|n.病房;行政区;监护;被监护人 vt.挡住
+wardrobe|n.衣柜,衣厨;衣服;行头;剧装
+warehouse|n.仓库,货栈
+warfare|n.战争(状态);斗争;冲突
+warm|a.温暖的，热心的，热情的 v.(使)变暖
+warmth|n.暖和,温暖;热心,热情
+warn|vt.警告 vi.发出警告
+warrant|n.正当理由;许可证,委任状 v.保证,担保
+wash|n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡
+waste|v.浪费 a.无用的;荒芜的 n.浪费;废物
+watch|v.观看；看守；(for)窥伺，等待 n.看管；表
+watch|v.观看;注视;看守;警戒 n.注视;手表;守护
+water|n.水 vt.浇灌；给…饮水 vi.流泪，加水
+waterfall|n.瀑布
+waterproof|a.防水的,耐水的
+watt|n.瓦,瓦特
+wave|n.波浪;(挥手)示意;飘扬 v.(挥手)示意,致意
+wax|n.蜡,蜂蜡 v.打蜡
+way|n.道路，路程；方法/式，手段；习惯；状态
+we|pron．我们<主格>
+weak|a.虚弱的,软弱的;不够标准的;淡薄的,稀的
+wealth|n.财富,财产;大量
+wealthy|a.富有的,丰裕的,充分的 n.富人,有钱人
+weapon|n.武器,兵器
+wear|v.穿着，戴着；磨损，用旧 n.穿，戴；磨损
+weary|a.疲倦的;令人厌烦的 v.使疲倦,使厌倦
+weather|n.天气,气象
+weave|v.编(织) n.编织法，编织式样
+web|n.网,蜘蛛网
+wedding|n.婚礼
+wedge|n.楔,楔形 vt.楔牢,楔入,挤进
+Wednesday|n.星期三
+weed|n.杂草,野草 v.除草,锄草
+week|n.星期，周
+weekday|n.平常日,工作日
+weekend|n.周末
+weekly|a.每星期的,一周的 ad.每周一次 n.周刊,周报
+weep|v.哭泣,流泪;滴下 n.哭泣
+weigh|v.称…重量,称;重达;考虑,权衡
+weight|n.重量;负荷,重担;重要性,分量;砝码,秤砣
+weird|a.古怪的，离奇的；怪诞的，神秘而可怕的
+welcome|int.欢迎 a.受欢迎的 vt./n.欢迎；迎接
+weld|v.焊接 n.焊接,焊缝
+welfare|n.福利；幸福；福利事业
+well|ad.好，令人满意地；很 int.哎呀，好啦，嗯
+well-known|a.有名的,著名的
+west|n./a.西,西方(的),西部(的) ad.向西
+western|a.西方的,西部的
+wet|a.湿的,潮湿的;有雨的,多雨的 v.弄湿,沾湿
+whale|n.鲸；庞然大物
+what|pron.什么 a.多么，何等；什么；尽可能多的
+whatever|pron.无论什么 a.无论什么样的
+whatsoever|ad.(用于否定句中以加强语气)任何
+wheat|n.小麦
+wheel|n.轮,车轮
+when|ad./pron.何时；当时 conj.那时；然后；而
+whenever|conj.无论何时,随时;每当
+where|ad.在哪/那里 conj./pron.哪里 conj.然而
+whereas|conj.而,却,反之
+wherever|conj.无论在哪里 ad.无论在哪里,究竟在哪里
+whether|conj.是否，会不会，不管，无论
+which|a./pron.哪个，哪些；什么样的；那个，那些
+whichever|pron./a.无论哪个,无论哪些
+while|conj.当…的时候；而；虽然；尽管 n.一会儿
+whip|n.鞭子;车夫 v.鞭打,抽打;突然移动
+whirl|v.(使)旋转,打转 n.旋转;-连串快速的活动
+whisky|n.威士忌酒
+whisper|v.耳语;私下说,偷偷告诉 n.耳语;传闻
+whistle|n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛
+white|a.白色的；苍白的；白种的 n.白色；白种人
+who|pron.谁，什么人；…的人；他，她，他们
+whoever|pron.[引导名词从句]谁；无论谁；究竟是谁
+whole|n.全部 a.全体的；全部的；完整的；无缺的
+wholesome|a.卫生的;有益的;健康的,有益健康的
+wholly|ad.完全地,全部,一概
+whom|pron.谁；哪个人(who 的宾格)
+whose|pron.谁的；哪(个)人的，那些(人)的
+why|ad./conj.为什么；…的理由 int.咳，哎呀
+wicked|a.坏的;邪恶的;不道德的;恶劣的;淘气的
+wide|a.宽阔的;睁大的;远离的 ad.广阔地;偏差地
+widespread|a.分布广泛的,普遍的
+widow|n.寡妇
+width|n.宽度;宽阔,广阔
+wife|n.妻子，夫人，太太
+wild|a.野性的,野生的;野蛮的;狂热的;荒芜的
+will|aux./v. 将；会；愿意 n.意志；决心；愿望
+willing|a.愿意的，乐意的，心甘情愿的
+win|vi.获胜，赢 vt.赢得；在…中获胜 n.胜利
+wind|n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行
+window|n.窗,窗口
+wine|n.葡萄酒,果酒
+wing|n.翅,翅膀;翼,机翼;派别 vt.装以翼
+wink|v.(使)眨眼；眨眼示意 n.眨眼；小睡，打盹
+winter|n.冬季，冬天
+wipe|v./n.擦,揩,抹
+wire|n.金属线,电线;电报,电信 v.发电报(给)
+wisdom|n.智慧,明智;名言,格言
+wise|a.有智慧的,聪明的
+wish|v.希望；但愿；祝 n.愿望，希望；[pl.]祝愿
+wit|n.智力,才智,智慧
+witch|n.女巫, 巫婆，巫师
+with|prep.跟…一起；用；具有；关于；因；随着
+withdraw|v.收回,撤消;缩回,退出;提取(钱)
+withhold|vt.使停止;拒给;保留;抑制 vi.忍住
+within|prep.在…里面,在…以内 ad.在内
+without|prep.无，没有 n.外面，外部
+withstand|vt.抵抗,经受住
+witness|n.目击者,证人;证据,证明 v.目击,目睹;作证
+wolf|n.狼
+woman|n.(pl.）women 妇女，成年女子
+wonder|n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道
+wonderful|a.惊人的,奇妙的;极好的
+wood|n.木材，木头，木料；(pl.)森林，林地
+wooden|a.木制的;呆笨的
+wool|n.羊毛,毛线,毛织品
+word|n.词，词语；言语，话；谈话；消息，信息
+work|n.工作(量)；作品；[pl.]工厂 v.工作；运转
+worker|n.工人，工作者，工作人员
+workshop|n.车间，工场，修理厂；研讨会，讲习班
+world|n.世界，地球；…界，领域；世间；全世界
+worldwide|a.全世界的,世界范围的 ad.遍及全世界
+worm|n.虫,蠕虫
+worry|v.烦恼;(about)对…感到烦恼 n.烦恼,焦虑
+worse|a./ad.更坏,更差(的/地)
+worship|n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜
+worst|a./ad.最坏(的),最差(的)
+worth|n.价值 a.值…的,价值…的,值得…的
+worthwhile|a.值得(做)的
+worthy|a.(of)值得…的,配得上…的;有价值的
+would|aux./v.将；可能；将会；总是，总会；宁愿
+wound|n.创伤,伤口 v.伤,伤害
+wrap|v.裹,缠,卷,包 n.披肩,围巾
+wreath|n.花环,花圈
+wreck|n.失事船(或飞机)v.(船等)失事,遇难;破坏
+wrench|v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受
+wretched|a.可怜的;悲惨的;肮脏的;恶劣的
+wrinkle|n.皱纹 v.起皱,皱眉
+wrist|n.腕,腕关节
+write|v.写，书写，写字；写作；写信(给)，函告
+writing|n.写,写作;著作,作品
+wrong|a.错的 ad.错误地，不正确地 n.错误 v.委屈

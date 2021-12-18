@@ -1,39 +1,39 @@
-jacket n.短上衣,茄克衫
-jam n.阻塞,轧住;果酱 v.(使)阻塞,(使)轧住不动
-January n.一月
-jar n.罐坛,广口瓶
-jargon n.行话
-jaw n.颌,颚
-jazz n.爵士乐
-jealous a.(of)妒忌的;猜疑的,警惕的
-jeans n.牛仔裤（又称 blue jeans, dungarees 等）
-jet n.喷气发动机,喷气式飞机;喷口 v.喷出,喷射
-jewel n.宝石,宝石饰物
-jewelry n.(jewllery)(总称)珠宝
-job n.工作，职位；零活，一件工作；任务，职责
-jog v.慢跑
-join v.参加，加入；联合，连接；和„在一起
-joint n.接合处,接头;关节 a.联合的,共同的,连接的
-joke n.笑话,玩笑 v.说笑话,开玩笑
-jolly a.欢乐的,高兴的
-journal n.定期刊物,杂志,日报;日志,日记
-journalist n.记者,新闻工作者
-journey n.旅行,旅程 v.旅行
-joy n.欢乐,喜悦;乐事,乐趣
-judge n.法官;裁判员;鉴定人 vt.审判;评论,裁判
-judgement n.(judgment)审判,判决;判断(力);看法,意见
-judicial a.司法的，法庭的，审判的；明断的，公正的
-jug n.(有柄，小口，可盛水等的)大壶，罐，盂
-juice n.(水果等)汁,液
-July n.七月
-jump v./n.跳跃,跳动,跳过;暴涨,猛增
-junction n.连接,接合,交叉点,枢纽站,接头,中继线
-June n.六月
-jungle n.丛林,生死地带
-junior a./n.年少的/者,三年级的/学生,下级(的)
-junk n.废物，旧货；舢板
-jury n.陪审团;全体评审员
-just ad.正好地；刚才；只不过 a.公正的，公平的
-justice n.公正,公平;审判,司法
-justify v.证明...正当(或有理、正确)，为...辩护
-juvenile n.青少年,少年读物 a.青少年的, 幼稚的
+jacket|n.短上衣,茄克衫
+jam|n.阻塞,轧住;果酱 v.(使)阻塞,(使)轧住不动
+January|n.一月
+jar|n.罐坛,广口瓶
+jargon|n.行话
+jaw|n.颌,颚
+jazz|n.爵士乐
+jealous|a.(of)妒忌的;猜疑的,警惕的
+jeans|n.牛仔裤（又称 bluejeans, dungarees等）
+jet|n.喷气发动机,喷气式飞机;喷口 v.喷出,喷射
+jewel|n.宝石,宝石饰物
+jewelry|n.(jewllery)(总称)珠宝
+job|n.工作，职位；零活，一件工作；任务，职责
+jog|v.慢跑
+join|v.参加，加入；联合，连接；和„在一起
+joint|n.接合处,接头;关节 a.联合的,共同的,连接的
+joke|n.笑话,玩笑 v.说笑话,开玩笑
+jolly|a.欢乐的,高兴的
+journal|n.定期刊物,杂志,日报;日志,日记
+journalist|n.记者,新闻工作者
+journey|n.旅行,旅程 v.旅行
+joy|n.欢乐,喜悦;乐事,乐趣
+judge|n.法官;裁判员;鉴定人 vt.审判;评论,裁判
+judgement|n.(judgment)审判,判决;判断(力);看法,意见
+judicial|a.司法的，法庭的，审判的；明断的，公正的
+jug|n.(有柄，小口，可盛水等的)大壶，罐，盂
+juice|n.(水果等)汁,液
+July|n.七月
+jump|v./n.跳跃,跳动,跳过;暴涨,猛增
+junction|n.连接,接合,交叉点,枢纽站,接头,中继线
+June|n.六月
+jungle|n.丛林,生死地带
+junior|a./n.年少的/者,三年级的/学生,下级(的)
+junk|n.废物，旧货；舢板
+jury|n.陪审团;全体评审员
+just|ad.正好地；刚才；只不过 a.公正的，公平的
+justice|n.公正,公平;审判,司法
+justify|v.证明...正当(或有理、正确)，为...辩护
+juvenile|n.青少年,少年读物 a.青少年的, 幼稚的

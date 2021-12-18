@@ -1,31 +1,31 @@
-keen a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的
-keep v.保持,保存,遵守,经营,看守,拘留,维持
-kettle n.水壶
-key n.钥匙；答案；关键；键 a.主要的，关键的
-keyboard n.键盘 vt.用键盘输入(信息)
-kick n./v.踢
-kid n.小孩,儿童 v.戏弄,取笑
-kidnap vt.诱拐；绑架，劫持
-kidney n.肾,肾脏
-kill vt.杀死，消灭；破坏，毁灭；消磨(时间)
-kilo n.(kilogram/kilogramme)千克
-kilometre n.(kilometer) 公里，千米(略作 km)
-kin n.家族,亲属,血缘关系 a.亲属关系的,同类的
-kind a.仁慈的，友好的，亲切的，和蔼的 n.种类
-kindergarten n.幼儿园
-kindness n.仁慈,亲切;好意;友好行为
-king n.君主，国王
-kingdom n.王国,领域
-kiss n./v.吻,接吻
-kit n.成套工具,用具包,工具箱
-kitchen n.厨房
-kite n.风筝
-knee n.膝,膝盖
-kneel v.跪,下跪
-knife n.刀,餐刀 v.用刀切,用匕首刺
-knit v.编织,编结;接合,粘合
-knob n.门把,(球形)把手,旋纽
-knock v.敲,敲打,碰撞 n.敲,击
-knot n.(绳)结;(树)节;节(=海里/小时) v.打结
-know vt.知道，了解；认识；识别 vi.知道，了解
-knowledge n.知识,学识;知道,了解
+keen|a.锋利的;敏锐的;敏捷的;(on)热心的,渴望的
+keep|v.保持,保存,遵守,经营,看守,拘留,维持
+kettle|n.水壶
+key|n.钥匙；答案；关键；键 a.主要的，关键的
+keyboard|n.键盘 vt.用键盘输入(信息)
+kick|n./v.踢
+kid|n.小孩,儿童 v.戏弄,取笑
+kidnap|vt.诱拐；绑架，劫持
+kidney|n.肾,肾脏
+kill|vt.杀死，消灭；破坏，毁灭；消磨(时间)
+kilo|n.(kilogram/kilogramme)千克
+kilometre|n.(kilometer) 公里，千米(略作 km)
+kin|n.家族,亲属,血缘关系 a.亲属关系的,同类的
+kind|a.仁慈的，友好的，亲切的，和蔼的 n.种类
+kindergarten|n.幼儿园
+kindness|n.仁慈,亲切;好意;友好行为
+king|n.君主，国王
+kingdom|n.王国,领域
+kiss|n./v.吻,接吻
+kit|n.成套工具,用具包,工具箱
+kitchen|n.厨房
+kite|n.风筝
+knee|n.膝,膝盖
+kneel|v.跪,下跪
+knife|n.刀,餐刀 v.用刀切,用匕首刺
+knit|v.编织,编结;接合,粘合
+knob|n.门把,(球形)把手,旋纽
+knock|v.敲,敲打,碰撞 n.敲,击
+knot|n.(绳)结;(树)节;节(=海里/小时) v.打结
+know|vt.知道，了解；认识；识别 vi.知道，了解
+knowledge|n.知识,学识;知道,了解

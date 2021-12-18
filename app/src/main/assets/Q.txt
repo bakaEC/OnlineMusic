@@ -1,28 +1,28 @@
-qualification       n.资格,合格;限定,条件;合格证
-qualify             v.(使)具有资格,证明合格;限制,限定;修饰
-qualitative         a.性质上的,定性的
-quality             n.质量,品质,特性
-quantify            v.确定数量
-quantitative        a.数量的,定量的
-quantity            n.量,数量;大量
-quarrel             v.争吵,争论 n.争吵,争吵的原因
-quart               n.夸脱
-quarter             n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处
-quarterly           a.每季的 ad.每季一次 n.季刊
-quartz              n.石英
-queen               n.女王,皇后,王后
-queer               a.奇怪的,古怪的
-quench              v.熄灭,扑灭,压制,抑制,止渴
-quest               n.探寻，探求；寻求，追求
-question            n.问题;询问 v.询问;怀疑,对„表示疑问
-questionnaire       n.调查表,问卷
-queue               n.行列,长队 v.(up)排队,排队等待
-quick               a.快的;灵敏的,伶俐的;敏锐的 ad.快,迅速地
-quiet               a.安静的,平静的 n.安静 v.使安静,平静
-quilt               n.被子
-quit                v.离开,退出;停止,放弃,辞职
-quite               ad.十分,完全;相当,颇;的确,真正
-quiver              v./n.颤抖,抖动
-quiz                n.小型考试,测验,问答比赛
-quota               n.(生产、进出口等的)配额，(移民的)限额
-quote               v.引用,援引
+qualification|n.资格,合格;限定,条件;合格证
+qualify|v.(使)具有资格,证明合格;限制,限定;修饰
+qualitative|a.性质上的,定性的
+quality|n.质量,品质,特性
+quantify|v.确定数量
+quantitative|a.数量的,定量的
+quantity|n.量,数量;大量
+quarrel|v.争吵,争论 n.争吵,争吵的原因
+quart|n.夸脱
+quarter|n.四分之一;季;一刻钟;(pl.)方向;(pl.)住处
+quarterly|a.每季的 ad.每季一次 n.季刊
+quartz|n.石英
+queen|n.女王,皇后,王后
+queer|a.奇怪的,古怪的
+quench|v.熄灭,扑灭,压制,抑制,止渴
+quest|n.探寻，探求；寻求，追求
+question|n.问题;询问 v.询问;怀疑,对„表示疑问
+questionnaire|n.调查表,问卷
+queue|n.行列,长队 v.(up)排队,排队等待
+quick|a.快的;灵敏的,伶俐的;敏锐的 ad.快,迅速地
+quiet|a.安静的,平静的 n.安静 v.使安静,平静
+quilt|n.被子
+quit|v.离开,退出;停止,放弃,辞职
+quite|ad.十分,完全;相当,颇;的确,真正
+quiver|v./n.颤抖,抖动
+quiz|n.小型考试,测验,问答比赛
+quota|n.(生产、进出口等的)配额，(移民的)限额
+quote|v.引用,援引
