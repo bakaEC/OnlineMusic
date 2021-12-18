@@ -4,7 +4,6 @@ package com.u21.a0903_onlinemusic.words;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.widget.AdapterView;
@@ -12,12 +11,8 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import androidx.coordinatorlayout.widget.CoordinatorLayout;
-
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
 import com.u21.a0903_onlinemusic.R;
-import com.u21.a0903_onlinemusic.WordLearningActivity;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -32,7 +27,7 @@ public class Allwords extends Activity implements OnItemClickListener {
 
 	private ListView lv;
 	private ArrayAdapter<String> adpter;
-	private List<String> list = new ArrayList<String>();
+	private List<String> list = new ArrayList<>();
 	private FloatingActionButton fab;
 
 	protected void onCreate(Bundle savedInstanceState) {
@@ -41,35 +36,32 @@ public class Allwords extends Activity implements OnItemClickListener {
 		setContentView(R.layout.activity_wordmain);
 
 		Intent intent = getIntent();
-		String str = intent.getStringExtra("Key");
+		String Cap = intent.getStringExtra("Key");
 //		CoordinatorLayout coordinatorLayout = findViewById(R.id.snackbar_container);
 //		Snackbar.make(coordinatorLayout, str, Snackbar.LENGTH_SHORT);
 
-		lv = (ListView) findViewById(R.id.capList);
+		lv = findViewById(R.id.capList);
 		fab = findViewById(R.id.fab);
 
-		fab.setOnClickListener(new View.OnClickListener() {
-			@Override
-			public void onClick(View view) {
-				Runtime runtime = Runtime.getRuntime();
-				try {
-					runtime.exec("input keyevent " + KeyEvent.KEYCODE_BACK);
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
+		fab.setOnClickListener(view -> {
+			Runtime runtime = Runtime.getRuntime();
+			try {
+				runtime.exec("input keyevent " + KeyEvent.KEYCODE_BACK);
+			} catch (IOException e) {
+				e.printStackTrace();
 			}
 		});
 
 
 		try {
 
-			InputStream is = getResources().getAssets().open(str + ".txt");
+			InputStream is = getResources().getAssets().open(Cap + ".txt");
 
 			InputStreamReader isr = new InputStreamReader(is);
 
 			BufferedReader br = new BufferedReader(isr);
 
-			String line = null;
+			String line;
 			while ((line = br.readLine()) != null) {
 				list.add(line);
 
@@ -83,7 +75,7 @@ public class Allwords extends Activity implements OnItemClickListener {
 			e.printStackTrace();
 		}
 
-		adpter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, list);
+		adpter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, list);
 		lv.setAdapter(adpter);
 		lv.setOnItemClickListener(this);
 	}

@@ -6,8 +6,18 @@
         <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
         <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_musiclist.xml" value="0.35052083333333334" />
         <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_musicplay.xml" value="0.317481884057971" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_randwords.xml" value="0.19427083333333334" />
         <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_userinfo.xml" value="0.5" />
         <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_welcome.xml" value="0.35052083333333334" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_wordmain.xml" value="0.19427083333333334" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/lrc_item.xml" value="0.19427083333333334" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/word_item.xml" value="0.2546875" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/menu/activity_main2_drawer.xml" value="0.2546875" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/menu/main.xml" value="0.2546875" />
+        <entry key="..\:/Sdk/platforms/android-30/data/res/layout/activity_list_item.xml" value="0.19427083333333334" />
+        <entry key="..\:/Sdk/platforms/android-30/data/res/layout/list_content.xml" value="0.19427083333333334" />
+        <entry key="..\:/Sdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.2546875" />
+        <entry key="..\:/Sdk/platforms/android-30/data/res/layout/simple_list_item_2.xml" value="0.19427083333333334" />
       </map>
     </option>
   </component>

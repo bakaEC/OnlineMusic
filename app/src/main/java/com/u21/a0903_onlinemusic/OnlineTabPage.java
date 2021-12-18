@@ -105,7 +105,7 @@ public class OnlineTabPage extends ActivityGroup implements TabHost.OnTabChangeL
         //设置标签页单个标签界面内容
         tabSpec.setIndicator(tablinears.get(2));
         //设置标签页分页Activity
-        tabSpec.setContent(new Intent(this, WordLearningActivity.class));
+        tabSpec.setContent(new Intent(this, WordListActivity.class));
         //添加分页内容
         tabHost.addTab(tabSpec);
 

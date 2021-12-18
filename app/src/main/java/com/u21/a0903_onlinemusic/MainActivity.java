@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         //注册控件
         from = findViewById(R.id.from);
         to = findViewById(R.id.to);
-        spinner = (Spinner) findViewById(R.id.language);
+        spinner = findViewById(R.id.language);
         layout = findViewById(R.id.linear);
         trans_pic = findViewById(R.id.transpic);
         view = findViewById(R.id.view);
@@ -106,21 +106,21 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         toC = findViewById(R.id.toC);
 
         //初始化数据
-        data_list = new ArrayList<String>();
+        data_list = new ArrayList<>();
         data_list.add("             中 → 英");
         data_list.add("             自动检测 → 中");
         data_list.add("             中 → 日");
         data_list.add("             中 → 法");
         config.lang(Language.ZH, Language.EN);
 
-        //设置背景图片
-        Resources resources = getApplicationContext().getResources();
-        Drawable backgroundDrawable = resources.getDrawable(R.drawable.maoboli);
-        layout.setBackground(backgroundDrawable);
+//        //设置背景图片
+//        Resources resources = getApplicationContext().getResources();
+//        Drawable backgroundDrawable = resources.getDrawable(R.drawable.maoboli);
+//        layout.setBackground(backgroundDrawable);
         //layout.setBackgroundColor(Color.WHITE);
 
         //适配器
-        arr_adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, data_list);
+        arr_adapter = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, data_list);
         //设置样式
         arr_adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         //加载适配器
@@ -245,7 +245,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
 
                     Bundle extras = data.getExtras();
                     if (null != extras) {
-                        Log.i("bb", "isNull:" + (null == extras));
+                        Log.i("bb", "isNull:" + false);
                         myBitmap = (Bitmap) extras.get("data");
                     } else {
                         Uri uri = data.getData();
@@ -280,17 +280,14 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
                                                    JSONArray jsonArray = new JSONArray(result_str);
                                                    JSONObject jsonObject2 = (JSONObject) jsonArray.get(0);
                                                    Log.e("respii", jsonObject2.toString());
-                                                   runOnUiThread(new Runnable() {
-                                                       @Override
-                                                       public void run() {
-                                                           try {
-                                                               from.setText(jsonObject2.getString("src"));
-                                                               to.setText(jsonObject2.getString("dst"));
-                                                           } catch (JSONException e) {
-                                                               e.printStackTrace();
-                                                           }
-
+                                                   runOnUiThread(() -> {
+                                                       try {
+                                                           from.setText(jsonObject2.getString("src"));
+                                                           to.setText(jsonObject2.getString("dst"));
+                                                       } catch (JSONException e) {
+                                                           e.printStackTrace();
                                                        }
+
                                                    });
                                                }
 
@@ -340,7 +337,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         }
         if (v == toC) {
             String word = getRandWord();
-            Toast.makeText(this, word, Toast.LENGTH_SHORT).show();
+            //Toast.makeText(this, word, Toast.LENGTH_SHORT).show();
             int index = word.indexOf(" ");
             String name = word.substring(0, index);
             String explain = word.substring(index + 1);
@@ -363,15 +360,12 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         Character.UnicodeBlock ub = Character.UnicodeBlock.of(c.charAt(0));
 
 
-        if (ub == Character.UnicodeBlock.CJK_UNIFIED_IDEOGRAPHS
+        return ub == Character.UnicodeBlock.CJK_UNIFIED_IDEOGRAPHS
                 || ub == Character.UnicodeBlock.CJK_COMPATIBILITY_IDEOGRAPHS
                 || ub == Character.UnicodeBlock.CJK_UNIFIED_IDEOGRAPHS_EXTENSION_A
                 || ub == Character.UnicodeBlock.GENERAL_PUNCTUATION
                 || ub == Character.UnicodeBlock.CJK_SYMBOLS_AND_PUNCTUATION
-                || ub == Character.UnicodeBlock.HALFWIDTH_AND_FULLWIDTH_FORMS) {
-            return true;
-        }
-        return false;
+                || ub == Character.UnicodeBlock.HALFWIDTH_AND_FULLWIDTH_FORMS;
     }
 
 
@@ -419,7 +413,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
             BufferedReader reader = new BufferedReader(streamReader);
             Random random = new Random();
             int ran = random.nextInt(5120);
-            String line = null;
+            String line;
             for (int i = 0; (line = reader.readLine()) != null; i++) {
                 if (i == ran) {
                     word = line;

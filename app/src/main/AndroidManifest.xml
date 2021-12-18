@@ -43,7 +43,7 @@
         <activity android:name=".MusicPlayActivity" />
         <activity android:name=".MyWebActivity" />
         <activity android:name=".UserInfoActivity" />
-        <activity android:name=".WordLearningActivity" />
+        <activity android:name=".WordListActivity" />
         <activity android:name=".words.WordActivity" />
         <activity android:name=".words.Allwords" />
         <activity android:name=".words.Randomwords" />
