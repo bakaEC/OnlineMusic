@@ -68,7 +68,7 @@ elite|n.<法>[集合名词]精华;精锐;中坚分子
 eloquent|a.雄辩的,有说服力的;善辩的,口才流利的
 else|ad.其它，另外，别的；[与 or 连用]否则
 elsewhere|ad.在别处,向别处
-e-mail n.(electronic mail)电子信函，电子邮件
+e-mail|n.(electronic mail)电子信函，电子邮件
 embark|v.(使)上船(或飞机,汽车等);着手,从事
 embarrass|vt.使困窘,使局促不安;阻碍,麻烦
 embassy|n.大使馆;大使及其随员

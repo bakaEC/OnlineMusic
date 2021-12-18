@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
     private List<String> data_list;             // 下拉框数据
     private ArrayAdapter<String> arr_adapter;   // 下拉框Adapter
     private EditText from;
+    private TextView musiclist;
     private TextView to;
     private TextView wordmain;
     private TextView wordexp;
@@ -99,6 +100,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         spinner = findViewById(R.id.language);
         layout = findViewById(R.id.linear);
         trans_pic = findViewById(R.id.transpic);
+        musiclist=findViewById(R.id.toright_up);
         view = findViewById(R.id.view);
         clear = findViewById(R.id.clear);
         wordmain = findViewById(R.id.toleft_up);
@@ -186,6 +188,8 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
         to.setOnClickListener(this);
 
         toC.setOnClickListener(this);
+
+        musiclist.setOnClickListener(this);
 
     }
 
@@ -354,6 +358,10 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
             wordmain.setText(name);
             wordexp.setText(stringBuilder.toString());
 
+        }
+        if(v==musiclist){
+            Intent intent = new Intent(this,MusicListActivity.class);
+            startActivity(intent);
         }
     }
     public static boolean isChinese(String c) {

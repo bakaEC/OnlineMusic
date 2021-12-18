@@ -37,7 +37,7 @@ accompany|v.陪伴，陪同；伴随，和...一起发生，伴奏
 accomplish|v.实现(计划等)；达到(目的)；完成(任务)
 accord|vt.给予(欢迎、称颂等) vi.&n.符合，一致
 accordance|n.一致，和谐，符合
-according|to        prep.据/照„(所说、所写)；按„，视„
+according to|prep.据/照„(所说、所写)；按„，视„
 accordingly|ad.相应地，照着办，按照；于是，因此
 account|a.叙述，说明；账目，账户 vi.说明，解释
 accountant|n.会计人员，会计师
@@ -132,7 +132,7 @@ ahead|ad.在前面(头)；向(朝)前；提前
 Aid|n.援助，救护；助手，辅助物 vi.援助，救援
 Aim|n.目的；瞄准 vi.(at)目的在于 vt.把„瞄准
 Air|n.空气；(复数)神气 vt.(使)通风；晾干
-air-conditioning    n.空调设备，空调系统
+air-conditioning|n.空调设备，空调系统
 aircraft|n.飞机，飞船，飞行器
 airline|n.(飞机)航线 a.(飞机)航线的
 airport|n.机场，航空站，航空港

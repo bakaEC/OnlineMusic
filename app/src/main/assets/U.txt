@@ -51,7 +51,7 @@ upright|a.垂直的,直立的;正直的,诚实的 ad.竖立着
 uproar|n.骚动,喧嚣,鼎沸
 upset|v.使…心烦意乱;打翻,推翻 a.难过的;不安的
 upstairs|ad.向楼上;在楼上;上楼 ad.楼上的
-up-to-date          a.现代化的，最新的；跟上时代的
+up-to-date|a.现代化的，最新的；跟上时代的
 upward|a.向上的,上升的 ad.向上
 urban|a.城市的, 市内的
 urge|vt.催促;怂恿;强调 n.强烈欲望,迫切要求

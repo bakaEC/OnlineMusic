@@ -1,23 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
+    android:alpha="1"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <TextView
-        android:id="@+id/itemword"
+    <com.lihang.ShadowLayout
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="25dp"
-        android:textSize="20dp"
-        android:text="English"/>
-    <TextView
-        android:id="@+id/itemexp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="-20dp"
-        android:textColor="#55000000"
-        android:layout_marginLeft="25dp"
-        android:textSize="14dp"
-        android:text="English"/>
+        app:hl_angle="90"
+        app:hl_cornerRadius="20dp"
+        app:hl_endColor="#f4f4f4"
+        app:hl_shadowColor="#22000000"
+        app:hl_shadowLimit="4dp"
+        app:hl_shadowOffsetY="2dp"
+        app:hl_startColor="#f0f0f0">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/itemword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:textSize="20dp"
+                android:text="English"/>
+            <TextView
+                android:id="@+id/itemexp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-20dp"
+                android:textColor="#55000000"
+                android:layout_marginLeft="25dp"
+                android:textSize="14dp"
+                android:text="English"/>
+        </LinearLayout>
+    </com.lihang.ShadowLayout>
 
 </LinearLayout>

@@ -12,6 +12,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.u21.a0903_onlinemusic.R;
@@ -89,18 +90,17 @@ public class Allwords extends Activity implements OnItemClickListener {
 		}
 
 		WordAdapter adpter = new WordAdapter();
-		lv.setAdapter(adpter);
 		lv.setOnItemClickListener(this);
+		lv.setAdapter(adpter);
+
 	}
 
 	@Override
 	public void onItemClick(AdapterView<?> arg0, View arg1, int pos, long arg3) {
-
+		//Toast.makeText(this,"你点到我啦",Toast.LENGTH_SHORT).show();
 		Intent intent = new Intent(this, WordActivity.class);
 		intent.putExtra("Word",list.get(pos));
 		startActivity(intent);
-
-
 	}
 
 	class WordAdapter extends BaseAdapter {

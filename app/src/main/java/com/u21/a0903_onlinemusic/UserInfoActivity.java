@@ -48,6 +48,7 @@ public class UserInfoActivity extends AppCompatActivity implements View.OnClickL
     private Button register;
     private String Susername = "";
     private String Spassword = "";
+
     public String resp = null;
     private Boolean loginR = false;
 

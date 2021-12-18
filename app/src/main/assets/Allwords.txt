@@ -132,7 +132,7 @@ ahead|ad.在前面(头)；向(朝)前；提前
 Aid|n.援助，救护；助手，辅助物 vi.援助，救援
 Aim|n.目的；瞄准 vi.(at)目的在于 vt.把„瞄准
 Air|n.空气；(复数)神气 vt.(使)通风；晾干
-air-conditioning    n.空调设备，空调系统
+air-conditioning|n.空调设备，空调系统
 aircraft|n.飞机，飞船，飞行器
 airline|n.(飞机)航线 a.(飞机)航线的
 airport|n.机场，航空站，航空港
@@ -1342,7 +1342,7 @@ elite|n.<法>[集合名词]精华;精锐;中坚分子
 eloquent|a.雄辩的,有说服力的;善辩的,口才流利的
 else|ad.其它，另外，别的；[与 or 连用]否则
 elsewhere|ad.在别处,向别处
-e-mail n.(electronic mail)电子信函，电子邮件
+e-mail|n.(electronic mail)电子信函，电子邮件
 embark|v.(使)上船(或飞机,汽车等);着手,从事
 embarrass|vt.使困窘,使局促不安;阻碍,麻烦
 embassy|n.大使馆;大使及其随员
@@ -1938,7 +1938,7 @@ gross|a.总的,毛(重)的;粗鲁的,粗俗的 n.总额
 ground|n.地，地面，土地；场地，场所；理由，根据
 group|n.群,组 v.分组
 grow|v.生长，成长；渐渐变成；栽培，种植；发展
-grown-up a.成长的,成熟的,成人的 n.成年人
+grown-up|a.成长的,成熟的,成人的 n.成年人
 growth|n.生长,增长,发展
 guarantee|n.保证,保证书 v.保证,担保
 guard|v./n.保卫，守卫，提防 n.哨兵，警卫，看守
@@ -2146,7 +2146,7 @@ hypothesis|n.假说,假设,前提
 hysterical|a.情绪异常激动的,歇斯底里的
 I|pron.(主格)我
 ice|n.冰；冰冻甜食 vt.冰冻，使成冰
-ice-cream n.冰淇淋
+ice-cream|n.冰淇淋
 idea|n.想法，念头；概念，观念；意见，主意
 ideal|a.理想的;空想的;理想主义的;唯心的 n.理想
 identical|a.(to.with)同一的,同样的
@@ -2582,7 +2582,7 @@ live|v.活着,生活,居住 a.活的,生动的,直播的
 lively|a.活泼的,活跃的;栩栩如生的,真实的
 liver|n.肝,肝脏
 living|a.活的,有生命的,天然的,逼真的 n.生活,生计
-living-room n.起居室
+living-room|n.起居室
 load|v.装(货),装载 n.装载(量),负荷(量);(一)担
 loaf|n.一个面包
 loan|n.贷款;出借,借出 v.借出
@@ -3215,7 +3215,7 @@ party|n.聚会,政党,当事人 v.举行(参加)社交聚会
 pass|v.经/通/穿/度过；传递 n.通行证；考试及格
 passage|n.通过,经过;通路,走廊;(一)段落,(一)节
 passenger|n.乘客,旅客
-passer-by n.(pl.passers-by)过路人
+passer-by|n.(pl.passers-by)过路人
 passion|n.热情,激情,爱好;激怒;强烈感情
 passive|a.被动的,消极的
 passport|n.护照,达到某种目的的手段
@@ -4128,7 +4128,7 @@ soap|n.肥皂
 soar|vi.(指鸟等)高飞，翱翔；飞涨；高耸
 sob|v./n.哭泣,呜咽
 sober|a.清醒的;认真的,冷静的,适度的
-so-called           a.(贬)所谓的，号称的
+so-called|a.(贬)所谓的，号称的
 soccer|n.足球
 sociable|a.好交际的，友好的，合群的
 social|a.社会的;交际的
@@ -4826,7 +4826,7 @@ upright|a.垂直的,直立的;正直的,诚实的 ad.竖立着
 uproar|n.骚动,喧嚣,鼎沸
 upset|v.使…心烦意乱;打翻,推翻 a.难过的;不安的
 upstairs|ad.向楼上;在楼上;上楼 ad.楼上的
-up-to-date          a.现代化的，最新的；跟上时代的
+up-to-date|a.现代化的，最新的；跟上时代的
 upward|a.向上的,上升的 ad.向上
 urban|a.城市的, 市内的
 urge|vt.催促;怂恿;强调 n.强烈欲望,迫切要求
@@ -4994,7 +4994,7 @@ welcome|int.欢迎 a.受欢迎的 vt./n.欢迎；迎接
 weld|v.焊接 n.焊接,焊缝
 welfare|n.福利；幸福；福利事业
 well|ad.好，令人满意地；很 int.哎呀，好啦，嗯
-well-known          a.有名的,著名的
+well-known|a.有名的,著名的
 west|n./a.西,西方(的),西部(的) ad.向西
 western|a.西方的,西部的
 wet|a.湿的,潮湿的;有雨的,多雨的 v.弄湿,沾湿
@@ -5090,7 +5090,7 @@ wrist|n.腕,腕关节
 write|v.写，书写，写字；写作；写信(给)，函告
 writing|n.写,写作;著作,作品
 wrong|a.错的 ad.错误地，不正确地 n.错误 v.委屈
-X-ray               n.X 射线,X 光
+X-ray|n.X 射线,X 光
 yard|n.院子,场地;码
 yawn|v.打呵欠 n.呵欠
 year|n.年，年度，学年 a./ad.每年，一年一次
