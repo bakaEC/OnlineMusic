@@ -336,23 +336,15 @@
                         app:hl_shadowLimit="6dp"
                         app:hl_shadowOffsetY="6dp"
                         app:hl_shapeMode="ripple"
-                        app:hl_text="英文金曲"
                         app:hl_startColor="#f0f0f0">
 
-                        <com.kproduce.roundcorners.RoundTextView
-                            android:id="@+id/toright_up"
+                        <TextView
                             android:layout_width="match_parent"
-                            android:layout_height="225dp"
+                            android:layout_height="match_parent"
                             android:gravity="center"
-                            android:paddingLeft="20sp"
-                            android:paddingRight="20sp"
+                            android:textSize="15dp"
                             android:text="英文金曲"
-                            android:textColor="#000000"
-                            android:textSize="20sp"
-                            app:rBottomLeftRadius="20dp"
-                            app:rBottomRightRadius="20dp"
-                            app:rTopLeftRadius="20dp"
-                            app:rTopRightRadius="20dp" />
+                            />
                     </com.lihang.ShadowLayout>
 
                     <com.lihang.ShadowLayout

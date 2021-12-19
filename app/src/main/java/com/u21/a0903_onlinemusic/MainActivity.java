@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
     private TextView wordmain;
     private TextView wordexp;
     private LinearLayout layout;
-    private MaterialIconView trans_pic;                // 图片翻译按钮
+    private MaterialIconView trans_pic;         // 图片翻译按钮
     private ImageView view;                     // 图片预览view
     private ImageView clear;                    // 清空按钮
     private String pic_result;                  // 图片绝对路径
